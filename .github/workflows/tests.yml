@@ -2,9 +2,9 @@ name: tests
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [main, master]
   pull_request:
-    branches: [ main, master ]
+    branches: [main, master]
 
 jobs:
   build:
@@ -16,6 +16,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Set up Node.js 16.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16.x  # Set Node.js version to 16.x
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
@@ -32,7 +36,7 @@ jobs:
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Install test dependecies
+    - name: Install test dependencies
       run: |
         pip install -e .[test]
     - name: Test with pytest
