@@ -5,13 +5,16 @@ from io import StringIO
 from monteprediction import MONTE_URL
 
 
-def send_in_chunks(df, email, num_chunks, max_retries=3):
+def send_in_chunks(df, email, num_chunks, name=None, max_retries=3):
+    if name is None:
+        name = email[:20]
+        print(f'Suggest you supply name argument for the leaderboard. Using {name} for now')
     chunks = np.array_split(df, num_chunks)
     for chunk_no, chunk_df in enumerate(chunks):
         for attempt in range(max_retries):
             try:
                 # Metadata and URL setup
-                metadata = {'email': email, 'chunk': chunk_no, 'num_chunks': num_chunks}
+                metadata = {'email': email, 'name':name, 'chunk': chunk_no, 'num_chunks': num_chunks}
 
                 # Convert DataFrame chunk to CSV string
                 csv_string = chunk_df.to_csv(index=False)
