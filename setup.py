@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="monteprediction",
-    version="1.0.2",
+    version="1.0.3",
     description="A Weekly Monte Carlo Game",
     long_description=README,
     long_description_content_type="text/markdown",
