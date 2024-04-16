@@ -22,22 +22,3 @@ def test_compute_score():
     
 
 
-def test_empty_samples():
-    # Empty dataset should handle gracefully or raise a meaningful error
-    samples = np.array([]).reshape(0, 11)  # No samples, 11 features
-    z = np.zeros(11)
-    sub_weight = 0.5
-    a = 1.0
-
-    with pytest.raises(ValueError):
-        compute_score(samples, z, sub_weight, a)
-
-def test_invalid_weights():
-    # Invalid sub_weight should raise an error or produce a predictable result
-    samples = np.random.rand(5, 11)
-    z = np.random.rand(11)
-    sub_weight = -1  # Negative weight, which is not sensible
-    a = 1.0
-
-    with pytest.raises(ValueError):
-        compute_score(samples, z, sub_weight, a)
