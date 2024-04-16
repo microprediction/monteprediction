@@ -24,7 +24,7 @@ def compute_score(samples, z, sub_weight=0.5, a=KERNEL_RATE):
     weighted_average = sub_weight*np.average(scores)
     
     # Score from the full 11-dimensional set
-    score_11d = compute_score(samples, z, a)
+    score_11d = _compute_score(samples, z, a)
     
     # Total score: weighted average of 10D scores + score from 11D
     total_score = weighted_average + score_11d
