@@ -38,3 +38,4 @@ def send_in_chunks(df, email, num_chunks, name=None, max_retries=3):
 
         else:
             print(f"Failed to send chunk {chunk_no} after {max_retries} attempts.")
+    return response
