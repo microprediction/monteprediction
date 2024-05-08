@@ -3,7 +3,7 @@ import requests
 import time
 from io import StringIO
 from monteprediction import MONTE_URL
-
+import json
 
 def send_in_chunks(df, email, num_chunks, name=None, max_retries=3):
     if name is None:
@@ -38,4 +38,7 @@ def send_in_chunks(df, email, num_chunks, name=None, max_retries=3):
 
         else:
             print(f"Failed to send chunk {chunk_no} after {max_retries} attempts.")
-    return response
+    try: 
+        return json.loads(response.content)
+    except:
+        return {'message':'Failed but try again a little later'}
