@@ -2,7 +2,6 @@ from monteprediction import SPDR_ETFS
 import yfinance as yf
 import numpy as np
 import scipy.stats as stats
-import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import pandas as pd
 
