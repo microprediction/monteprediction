@@ -22,6 +22,6 @@ def get_implied():
 def get_truth(expiry:str):
    # Get "official" truth ... weekly returns
    expiry_underscore = covert_date(expiry).replace('-','_')
-   response = requests.get(API_BASE + 'truth/' + expiry_underscore
+   response = requests.get(API_BASE + 'truth/' + expiry_underscore)
    data = json.loads(response.json()['data'])
    return pd.DataFrame(data)
