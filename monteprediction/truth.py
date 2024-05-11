@@ -3,6 +3,7 @@ from datetime import timedelta, datetime
 from monteprediction import SPDR_ETFS
 import yfinance as yf
 
+# For the "official" ground truth see https://github.com/microprediction/monteprediction/blob/main/monteprediction/api.py
 
 def get_most_recent_truth():
     end_date = back_to_weekday(datetime.now() - timedelta(days=1))
