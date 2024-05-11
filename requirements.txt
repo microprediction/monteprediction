@@ -1,3 +1,5 @@
 numpy
 pandas
 yfinance
+python-dateutil
+scipy
