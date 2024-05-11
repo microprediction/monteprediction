@@ -77,6 +77,6 @@ def fetch_weekly_options_for_ticker(ticker):
 
 
 def get_weekly_options():
-   df_data = [fetch_options_data(etf) for etf in SPDR_ETFS if fetch_options_data(etf)]
+   df_data = [fetch_weekly_options_for_ticker(etf) for etf in SPDR_ETFS if fetch_options_data(etf)]
    df = pd.DataFrame(df_data)
    return df 
