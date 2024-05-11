@@ -24,7 +24,7 @@ setup(
     test_suite='pytest',
     tests_require=['pytest'],
     include_package_data=True,
-    install_requires=['numpy','pandas','yfinance','python-dateutil'],
+    install_requires=['numpy','pandas','yfinance','python-dateutil','scipy'],
     entry_points={
         "console_scripts": [
             "monteprediction=monteprediction.__main__:main",
