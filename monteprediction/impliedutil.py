@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import pandas as pd
 
-#  For retrieving implied weekly ETF return standard deviations from yfinance in a convenient format
+#  For retrieving implied weekly ATM ETF volatilities and weekly return standard deviations from yfinance
 #  See get_weekly_options() in particular
 
 def get_days_until_expiration(expiration_date):
