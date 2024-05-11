@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="monteprediction",
-    version="1.0.8",
+    version="1.0.9",
     description="A Weekly Monte Carlo Game",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -24,7 +24,7 @@ setup(
     test_suite='pytest',
     tests_require=['pytest'],
     include_package_data=True,
-    install_requires=['numpy','pandas','yfinance'],
+    install_requires=['numpy','pandas','yfinance','python-dateutil'],
     entry_points={
         "console_scripts": [
             "monteprediction=monteprediction.__main__:main",
