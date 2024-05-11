@@ -8,7 +8,6 @@ def convert_date(date_string):
         dt = parser.parse(date_string)
         return dt.strftime('%Y-%m-%d')
     except ValueError:
-        # Handle cases where the date string is not recognized
         return "Invalid date format"
 
 API_BASE = 'https://www.monteprediction.com/api/'
