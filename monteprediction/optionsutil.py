@@ -80,3 +80,7 @@ def get_weekly_options():
    df_data = [fetch_weekly_options_for_ticker(etf) for etf in SPDR_ETFS if fetch_weekly_options_for_ticker(etf)]
    df = pd.DataFrame(df_data)
    return df 
+
+def get_weekly_implied()->dict:
+   df =  get_weekly_options()
+   return dict(zip(df['ticker'].values,df['impliedStd'].values))
