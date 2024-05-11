@@ -78,6 +78,8 @@ def fetch_weekly_options_for_ticker(ticker):
 def get_weekly_options():
    df_data = [fetch_weekly_options_for_ticker(etf) for etf in SPDR_ETFS if fetch_weekly_options_for_ticker(etf)]
    df = pd.DataFrame(df_data)
+   if not df.empty:
+        df['impliedStd'] = (df['adjustedCallIV'] + df['adjustedPutIV']) / 2  # Average of adjusted IVs as implied std
    return df 
 
 def get_weekly_implied()->dict:
