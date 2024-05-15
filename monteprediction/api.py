@@ -34,13 +34,13 @@ def get_truth(expiry:str):
 def get_mean(expiry:str):
    # Get historical community mean estimate
    expiry_underscore = convert_date(expiry).replace('-','_')
-   response = requests.get(API_BASE + 'mean/' + expiry_underscore)
+   response = requests.get(API_BASE + '/moments/mean/' + expiry_underscore)
    data = json.loads(response.json()['data'])
    return pd.DataFrame(data)
 
 def get_covariance(expiry:str):
    # Get historical community covariance estimate
    expiry_underscore = convert_date(expiry).replace('-','_')
-   response = requests.get(API_BASE + 'covariance/' + expiry_underscore)
+   response = requests.get(API_BASE + '/moments/covariance/' + expiry_underscore)
    data = json.loads(response.json()['data'])
    return pd.DataFrame(data)
