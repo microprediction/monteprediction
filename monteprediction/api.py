@@ -41,6 +41,9 @@ def get_mean(expiry:str):
 def get_covariance(expiry:str):
    # Get historical community covariance estimate
    expiry_underscore = convert_date(expiry).replace('-','_')
-   response = requests.get(API_BASE + '/moments/covariance/' + expiry_underscore)
+   url = API_BASE + 'moments/covariance/' + expiry_underscore
+   response = requests.get(url)
    data = json.loads(response.json()['data'])
-   return pd.DataFrame(data)
+   tickers = data['columns']
+   data_matrix = pd.DataFrame(data['data'], index=tickers, columns=tickers)
+   return data_matrix
