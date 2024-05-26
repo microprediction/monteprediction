@@ -5,7 +5,14 @@ import yfinance as yf
 
 # For the "official" ground truth see https://github.com/microprediction/monteprediction/blob/main/monteprediction/api.py
 
-
+from datetime import datetime
+MONDAY_HOLIDAYS = [
+    datetime(2024, 1, 1),   # New Year's Day (observed)
+    datetime(2024, 1, 15),  # Martin Luther King Jr. Day
+    datetime(2024, 2, 19),  # Presidents' Day
+    datetime(2024, 5, 27),  # Memorial Day
+    datetime(2024, 9, 2)    # Labor Day
+]
 
 def get_previous_monday(date):
     """
