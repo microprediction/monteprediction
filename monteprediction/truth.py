@@ -4,6 +4,7 @@ from monteprediction import SPDR_ETFS
 import yfinance as yf
 
 # For the "official" ground truth see https://github.com/microprediction/monteprediction/blob/main/monteprediction/api.py
+# Code used to produce those is provided here for transparency (and so you can debug it :)
 
 from datetime import datetime
 MONDAY_HOLIDAYS = [
