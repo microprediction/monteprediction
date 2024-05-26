@@ -5,9 +5,17 @@ import yfinance as yf
 
 # For the "official" ground truth see https://github.com/microprediction/monteprediction/blob/main/monteprediction/api.py
 
-def get_most_recent_truth():
-    end_date = back_to_weekday(datetime.now() - timedelta(days=1))
+def get_truth(expiry):
+    """
+        Get the weekly change Monday close to Monday close
+    """
+    if expiry in MONDAY_HOLIDAYS:
+        print('Its a long weekend!')
+        end_date = get_previous_tuesday(expiry + timedelta(days=1))
+    else:
+        end_date = get_previous_monday(expiry)
     start_date = end_date - timedelta(weeks=3)
-    recent_data = yf.download(SPDR_ETFS, start=start_date.date(), end=end_date.date(), interval="1wk")
+    recent_data = yf.download(SPDR_ETFS, start=start_date, end=end_date, interval="1wk")
     recent_weekly_prices = recent_data['Adj Close']
-    return recent_weekly_prices.pct_change().dropna().iloc[-1].values
+    truth = recent_weekly_prices.pct_change().dropna().iloc[-1]
+    return truth
