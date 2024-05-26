@@ -5,6 +5,33 @@ import yfinance as yf
 
 # For the "official" ground truth see https://github.com/microprediction/monteprediction/blob/main/monteprediction/api.py
 
+
+
+def get_previous_monday(date):
+    """
+    If it is Monday, return date
+    Otherwise return the date of the previous Monday
+    """
+    days_to_subtract = (date.weekday() - 0) % 7
+    if days_to_subtract == 0:
+        return date
+    previous_monday = date - timedelta(days=days_to_subtract)
+    return previous_monday
+
+
+
+def get_previous_tuesday(date):
+    """
+    If it is Tuesday, return date
+    Otherwise return the date of the previous Tuesday
+    """
+    days_to_subtract = (date.weekday() - 1) % 7
+    if days_to_subtract == 0:
+        return date
+    previous_tuesday = date - timedelta(days=days_to_subtract)
+    return previous_tuesday
+
+
 def get_truth(expiry):
     """
         Get the weekly change Monday close to Monday close
