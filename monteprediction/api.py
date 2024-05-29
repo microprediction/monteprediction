@@ -47,3 +47,23 @@ def get_covariance(expiry:str):
    tickers = data['columns']
    data_matrix = pd.DataFrame(data['data'], index=tickers, columns=tickers)
    return data_matrix
+
+def get_std(expiry:str):
+    cov = get_covariance(expiry=expiry)
+    index = cov.index
+    devo = np.sqrt(np.diag(cov.values))
+    return pd.Series(devo, index=index)
+
+def get_corr(expiry:str):
+    cov = get_covariance(expiry=expiry)
+    index = cov.index
+    devo = np.sqrt(np.diag(cov.values))
+    outer_std_devs = np.outer(std_devs, std_devs)
+    corr_matrix = cov_matrix / outer_std_devs
+    np.fill_diagonal(corr_matrix, 1)
+    corr_matrix_df = pd.DataFrame(corr_matrix, index=index, columns=columns)
+    return corr_matrix_df
+    
+    
+    
+    
