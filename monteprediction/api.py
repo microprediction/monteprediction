@@ -50,20 +50,21 @@ def get_covariance(expiry:str)->pd.Dataframe:
    return data_matrix
 
 def get_std(expiry:str)->pd.Series:
+    # Get historical community standard deviations
     cov = get_covariance(expiry=expiry)
     index = cov.index
     devo = np.sqrt(np.diag(cov.values))
     return pd.Series(devo, index=index)
 
 def get_correlation(expiry:str)->pd.Dataframe:
+    # Get historical community correlations
     cov = get_covariance(expiry=expiry)
     index = cov.index
+    columns = cov.columns
     devo = np.sqrt(np.diag(cov.values))
-    outer_std_devs = np.outer(std_devs, std_devs)
-    corr_matrix = cov / outer_std_devs
-    np.fill_diagonal(corr_matrix, 1)
-    corr_matrix_df = pd.DataFrame(corr_matrix, index=index, columns=columns)
-    return corr_matrix_df
+    corr = cov / np.outer(devo, devo)
+    np.fill_diagonal(corr, 1)
+    return pd.DataFrame(corr, index=index, columns=columns)
     
     
     
