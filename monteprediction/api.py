@@ -1,6 +1,7 @@
 import requests
 import json
 import pandas as pd 
+import numpy as np 
 from dateutil import parser
 
 def convert_date(date_string):
@@ -38,7 +39,7 @@ def get_mean(expiry:str):
    data = json.loads(response.json()['data'])
    return pd.DataFrame(data)
 
-def get_covariance(expiry:str):
+def get_covariance(expiry:str)->pd.Dataframe:
    # Get historical community covariance estimate
    expiry_underscore = convert_date(expiry).replace('-','_')
    url = API_BASE + 'moments/covariance/' + expiry_underscore
@@ -48,13 +49,13 @@ def get_covariance(expiry:str):
    data_matrix = pd.DataFrame(data['data'], index=tickers, columns=tickers)
    return data_matrix
 
-def get_std(expiry:str):
+def get_std(expiry:str)->pd.Series:
     cov = get_covariance(expiry=expiry)
     index = cov.index
     devo = np.sqrt(np.diag(cov.values))
     return pd.Series(devo, index=index)
 
-def get_corr(expiry:str):
+def get_correlation(expiry:str)->pd.Dataframe:
     cov = get_covariance(expiry=expiry)
     index = cov.index
     devo = np.sqrt(np.diag(cov.values))
