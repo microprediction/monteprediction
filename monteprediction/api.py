@@ -62,7 +62,7 @@ def get_correlation(expiry:str)->pd.DataFrame:
     index = cov.index
     columns = cov.columns
     devo = np.sqrt(np.diag(cov.values))
-    corr = cov / np.outer(devo, devo)
+    corr = cov.values / np.outer(devo, devo)
     np.fill_diagonal(corr, 1)
     return pd.DataFrame(corr, index=index, columns=columns)
     
