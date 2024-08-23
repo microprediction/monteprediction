@@ -17,7 +17,7 @@ I've written:
 You are welcome. 
 
 ## Ways I can help you if you are a broker or market data provider
-... and want to create enhanced data feeds that can be sold to your customers *and* you are willing to profit share. 
+... and want to create incredibly high quality enhanced data feeds (for trading etc) that can be sold to your customers *and* you are willing to profit share. 
 
 - I have 6,000 data scientists including 600 PhD's around the globe who can be lazer targetted on enterprise data enhancement through a novel, layered decentralized machine whose last layer contains thousands of algorithms looking for any deviation from martingality. If that doesn't make sense read my book backwards from Chapter 8. 
 
