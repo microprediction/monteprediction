@@ -9,7 +9,7 @@ Profuse apologies if I flicked this to you absent mindedly while watching Gossip
 
 I've written:
 
-- A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) that might change the way you think about artificial intelligence. 
+- The only prophesorial [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI that doesn't treat the reader like an idiot. 
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Various [papers](https://github.com/microprediction/home) articles and provocations. 
 
