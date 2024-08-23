@@ -22,7 +22,7 @@ I built the industry's first real-time "mid" for credit (Benchmark Solutions); a
  
 ## Ways I can help you if you want a job
 
-If you are good enough, you won't need one: 
+If you are good enough, you won't need one. 
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) because it is being hooked into legit scalable financial problems.
