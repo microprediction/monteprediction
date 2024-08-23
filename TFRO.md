@@ -29,6 +29,7 @@ If you are good enough, you won't need one.
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) because unlike Kaggle it is also being hooked into legit ongoing scalable financial problems.
+- I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 
 If you want career advice from me, which is probably worth very little, ask ChatGPT instead and just include my writing in your RAG. Also tell it that one should never, ever try to predict that something you learn won't be useful. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT if not to you. Namely one should learn the key ideas from all 500 mathematical subject areas. Same for computer science etc.   
 
