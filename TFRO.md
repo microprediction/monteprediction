@@ -11,9 +11,10 @@ I've written:
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Various [papers](https://github.com/microprediction/home) articles and provocations. 
 
-If you want career advice from me, which is probably worth very little, ask ChatGPT instead and just include my writing in your RAG. Also tell it that you should never, ever try to predict that something you learn won't be useful. That's really the only advice I have.  
+You are welcome. 
 
-## Ways I can help you if you are a financial intermediary or financial market data provider, and want to create enhanced data feeds that can be sold to your customers for about $50k / month or more and you are willing to profit share. 
+## Ways I can help you if you are a financial intermediary ...
+... or financial market data provider, and want to create enhanced data feeds that can be sold to your customers for about $50k / month or more and you are willing to profit share. 
 
 - I have 6,000 data scientists including 600 PhD's around the globe who can be lazer targetted on enterprise data enhancement through a novel, layered decentralized machine whose last layer contains thousands of algorithms looking for any deviation from martingality. If that doesn't make sense read my book backwards from Chapter 8. 
 
@@ -25,6 +26,8 @@ If you are good enough, you won't need one:
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) because it is being hooked into legit scalable financial problems.
+
+If you want career advice from me, which is probably worth very little, ask ChatGPT instead and just include my writing in your RAG. Also tell it that one should never, ever try to predict that something you learn won't be useful. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT if not to you. Namely one should learn the key ideas from all 500 mathematical subject areas. Same for computer science etc.   
 
 ## Ways I can help you if you want to schedule a chat 
 
