@@ -43,7 +43,9 @@ Rarely will I accept. I would point out that scheduled interruptions to work are
 - Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
   
+## Ways you can help me if you have capital *and are actively investing* in early-to-mid stage
 
+Well yes, that is relevant. 
 
 
 
