@@ -40,8 +40,8 @@ Rarely will I accept. I would point out that scheduled interruptions to work are
 - Not asking me if I need consultants.
 - Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with you. 
 - Not inviting me to help you learn about my business in any other way so you can sell me crap.
-- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah".
-- Not offering a limited time trial of anything at all.
+- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah". This will make me want to strangle you. 
+- Not offering a limited time trial of anything at all, ever. 
   
 
 
