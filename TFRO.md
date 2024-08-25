@@ -16,19 +16,26 @@ I've written:
 
 You are welcome. 
 
-## Ways I can help you if you are a broker or market data provider
-... and want to create incredibly high quality enhanced data feeds (for trading etc) that can be sold to your customers *and* you are willing to profit share. 
+## Ways I can help you if you are a broker, venue, or market data provider
+Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions); algos for J.P. Morgan and other things. But now...
 
-- I have 6,000 data scientists including 600 PhD's around the globe who can be lazer targetted on enterprise data enhancement through a novel, layered decentralized machine whose last layer contains thousands of algorithms looking for any deviation from martingality. If that doesn't make sense read my book backwards from Chapter 8. 
+- I work on creating extremely high quality enhanced data feeds (for market making and taking) in a very different decentralized way. 
+- We have 6,000 data scientists including 600 PhD's around the globe.
+- I help devise a mildly complex combinations of challenges that combine to take advantage of this diverse talent pool. The result is better and better models being promoted to production, but also better and better attacks on the same, and ongoing performance analysis, and generative models and so forth. 
+- The result is incredibly hard to beat. We've proven that quality exceeds that of the most expensive private quant team every assembled (in a certain middle eastern country, you know what team I refer to).
+- There are more hints at this process if you read my book backwards.  
 
-I built the industry's first real-time "mid" for credit (Benchmark Solutions); algos for J.P. Morgan and other things, but there's a much better way now. 
+Our "house" algorithms aren't completely shabby either and probably already better than what a few quants will build for you. However, its the use of the crowd in a granular manner that will give you the opportunity to create something truly solid and upsell derivatives of your data to all your clients for tens of thousands per month.  
  
 ## Ways I can help you if you want a job
 
-If you are good enough, you won't need one. I'm helping construct a place where you can lodge models and they will make you money forever. Now, in the meantime:  
+If you are good enough, you won't need one. I'm helping construct a place where you can lodge models and they will make you money forever.  
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) because unlike Kaggle it is also being hooked into legit ongoing scalable financial problems.
+
+That said:
+  
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 - I shall list job opennings for my own firm here too as they arise. 
 
@@ -36,17 +43,28 @@ If you want career advice from me, which is probably worth very little, one way 
 
 ## Ways I can help you if you want to schedule a chat 
 
-Rarely will I accept. I would point out that scheduled interruptions to work are interruptions nonetheless. I politely suggest asynchronous communication via the above channels such as the Microprediction Slack, Crunch Discord, Linked-In etc. 
+I get a lot of people asking to chat with me and I *do* want to do that. On the other hand I have to "deep work". 
+
+So, I am torn between being rude and not scheduling an interruptions to my work (deterministic interruptions are interruptions nonetheless), and the possibly even ruder but highly likely possibility that I completely forget a 15 minute call we set up. I politely suggest asynchronous communication via the above channels such as the Microprediction Slack, Crunch Discord, Linked-In etc. I might reinstate "office hours" soon, for anyone who wants to just chat with me while I'm on Zwift. Hmmm, if you are vey clever you could detect when I'm on Zwift and then ping me for a call. 
 
 
 ## Ways you can help me by not helping me 
 
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
-- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with you. 
+- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a stranger.  
 - Not inviting me to help you learn about my business in any other way so you can sell me crap.
 - Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
+
+## Ways you can actually help me
+
+- Constructive feedback on my various writings are invariably greeted warmly [home](https://github.com/microprediction/home).
+- Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
+- Introductions to *active* early to mid-stage investors are appreciated
+- Introductions to financial market participants whose interest might be piqued by our unique setup
+- Introductions to extremely good developers (solana/web3; kafka etc/streaming analytics; fx/ir/market making algo)
+- I'm sure you can think of something else. 
   
 ## Ways you can help me if you have capital *and are actively investing* in early-to-mid stage
 
