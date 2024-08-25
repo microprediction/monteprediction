@@ -1,7 +1,7 @@
 
 # Thanks for reaching out stranger
 
-This is my current "hey nice to connect on Linked-In" page where I try to save both of us time. 
+This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition.  
 
 Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
 
