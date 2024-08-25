@@ -25,13 +25,14 @@ I built the industry's first real-time "mid" for credit (Benchmark Solutions); a
  
 ## Ways I can help you if you want a job
 
-If you are good enough, you won't need one. 
+If you are good enough, you won't need one. I'm helping construct a place where you can lodge models and they will make you money forever. Now, in the meantime:  
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) because unlike Kaggle it is also being hooked into legit ongoing scalable financial problems.
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
+- I shall list job opennings for my own firm here too as they arise. 
 
-If you want career advice from me, which is probably worth very little, ask ChatGPT instead and just include my writing in your RAG. Also tell it that *one should never, ever try to predict that something you learn *won't* be useful. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT. Namely, one should learn the key ideas from all 500 mathematical subject areas. Same for computer science etc.   
+If you want career advice from me, which is probably worth very little, one way would be to ask ChatGPT instead and just include my writing in your RAG (I suppose I could make a little website but again, not sure my advice is so great). I have just one piece of advice that is intended to be counter to some thinking I have seen in young people. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc.   
 
 ## Ways I can help you if you want to schedule a chat 
 
