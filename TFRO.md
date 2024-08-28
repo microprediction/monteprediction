@@ -39,7 +39,12 @@ That said:
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 - I shall list job opennings for my own firm here too as they arise. 
 
-If you want career advice from me, which is probably worth very little, one way would be to ask ChatGPT instead and just include my writing in your RAG (I suppose I could make a little website but again, not sure my advice is so great). I have just one piece of advice that is intended to be counter to some thinking I have seen in young people. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc.   
+## Ways I can help you if you want career advice
+Yeah I know I wouldn't want that from me either but I do get asked a lot. 
+
+- If you want career advice from me, the best options would be my "office hours" (I will reinstate them soon) or catching me while I'm on zwift (I'm not to hard to find on the latter). 
+
+- I have just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc. Relish in the abstractness and apparent lack of utility. Because you will be wrong.    
 
 ## Ways I can help you if you want to schedule a chat 
 
