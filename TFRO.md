@@ -11,9 +11,9 @@ It's good to connect to smart people and improve feed quality. Thanks for that.
 I'm creating novel tools give portfolio managers a way to instrument the world, past and present. 
 
 - The good news is this is potentially powerful and I can get it to your fingertips immediately. 
-- The bad news is that it is potentially useless if you don't have novel economic insights or ways of looking at past events, people, documents or connections between the same.
+- The bad news is that it is potentially useless if you don't have novel economic insights or differentiated financial acumen. You need to come up with ways of looking at past events, people or connections between the same. That's your job not mine. 
 
-So, if you wish to be one of the early adopters then ping me at first name dot last name at crunchdao.com 
+If you wish to be one of the early adopters then ping me at first name dot last name at crunchdao.com 
 
 ## Ways I can help you if you have twenty bucks or less
 
