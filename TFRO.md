@@ -27,7 +27,7 @@ I've written:
 You are welcome. 
 
 ## Ways I can help you if you are a broker, venue, or market data provider
-Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions); algos for J.P. Morgan and other things. But now...
+Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions), also algos for J.P. Morgan and other things. But now...
 
 - I work on creating extremely high quality enhanced data feeds (for market making and taking) in a very different decentralized way. 
 - We have 6,000 data scientists including 600 PhD's around the globe.
