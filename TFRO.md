@@ -10,7 +10,9 @@ It's good to connect to smart people and improve feed quality. Thanks for that.
 ## Ways I can help you if you are a central bank watching portfolio manager
 Just getting started with this one but...
 
-- [pi prototype example](https://pi.crunchdao.io/explore/13/79)
+![](https://github.com/microprediction/monteprediction/blob/main/how_defensive.png)
+
+Ping me on Linked-In for access. 
 
 ## Ways I can help you if you have twenty bucks or less
 
