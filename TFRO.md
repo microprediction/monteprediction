@@ -7,22 +7,19 @@ Profuse apologies if I flicked this to you absent mindedly while watching Gossip
 
 It's good to connect to smart people and improve feed quality. Thanks for that. 
 
-## Ways I can help you if you are a portfolio manager
-I'm creating novel tools give portfolio managers a way to instrument the world, past and present. 
+## Ways I can help you if you are a central bank watching portfolio manager
+Just getting started with this one but...
 
-- The good news is this is potentially powerful and I can get it to your fingertips immediately. 
-- The bad news is that it is potentially useless if you don't have novel economic insights or differentiated financial acumen. You need to come up with ways of looking at past events, people or connections between the same. That's your job not mine. 
-
-If you wish to be one of the early adopters then ping me at first name dot last name at crunchdao.com 
+- [pi prototype example](https://pi.crunchdao.io/explore/13/79)
 
 ## Ways I can help you if you have twenty bucks or less
 
 I've written:
 
 - A fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) you can play immediately. 
-- A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. 
+- A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3)
 - Free open-source software ... see [here](https://github.com/microprediction)
-- Various [papers](https://github.com/microprediction/home) articles and provocations. 
+- Various [papers](https://github.com/microprediction/home) articles and provocations.
 
 You are welcome. 
 
