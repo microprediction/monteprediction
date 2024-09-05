@@ -3,6 +3,7 @@
 
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
 
+UPDATE: I've joined forces with Crunch! [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop)
 
 ## Ways I can help you if you are a central bank watching portfolio manager
 Just getting started with this one but just imagine a million generalizations of...
@@ -48,7 +49,6 @@ If you are good enough, you won't need one. I'm helping construct a place where 
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) which is being hooked into legit ongoing scalable financial problems. There are also one-off things that are quite novel such as the [causality contest](https://www.youtube.com/watch?v=AVBE5HLDUIw).
-- UPDATE: I've joined forces with Crunch! [Annoucement](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop)
 
 That said:
   
