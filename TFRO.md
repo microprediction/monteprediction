@@ -19,7 +19,7 @@ Ping me on Linked-In for access.
 I've written:
 
 - A fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) you can play immediately. 
-- A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3)
+- A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here].(https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3)
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Various [papers](https://github.com/microprediction/home) articles and provocations.
 
