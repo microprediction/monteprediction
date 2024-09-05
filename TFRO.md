@@ -5,7 +5,7 @@ This is my current "hey nice to connect on Linked-In" page where I try to avoid 
 
 
 ## Ways I can help you if you are a central bank watching portfolio manager
-Just getting started with this one but...
+Just getting started with this one but just imagine a million generalizations of...
 
 ![](https://github.com/microprediction/monteprediction/blob/main/how_defensive.png)
 
