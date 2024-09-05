@@ -20,7 +20,7 @@ I've written:
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Various [papers](https://github.com/microprediction/home) articles and provocations.
 
-You are welcome. 
+No warrantees! 
 
 ## Ways I can help you if you are a broker, venue, or market data provider
 Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions), also algos for J.P. Morgan and other things. But now...
