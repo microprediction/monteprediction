@@ -47,7 +47,8 @@ There isn't a better way. Reach out if you're serious about using this pattern.
 If you are good enough, you won't need one. I'm helping construct a place where you can lodge models and they will make you money forever.  
 
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
-- I also suggest [www.cruchdao.com](https://www.crunchdao.com) because unlike Kaggle it is also being hooked into legit ongoing scalable financial problems. See for example the [causality contest trailer](https://www.youtube.com/watch?v=AVBE5HLDUIw). 
+- I also suggest [www.cruchdao.com](https://www.crunchdao.com) because unlike Kaggle it is also being hooked into legit ongoing scalable financial problems. See for example the [causality contest trailer](https://www.youtube.com/watch?v=AVBE5HLDUIw).
+- UPDATE: I've joined forces with Crunch! [Annoucement](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop)
 
 That said:
   
