@@ -57,10 +57,8 @@ That said:
 
 It is possible that by the time you read this careers@crunchdao.com will work. 
 
-## Ways I can help you if you want career advice
+## Ways I can help you if you want career advice (see also below)
 Yeah I know I wouldn't want that from me either but I do get asked a lot. 
-
-- If you want career advice from me, the best options would be my "office hours" (I will reinstate them soon). 
 
 - I have just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time.
 
@@ -68,9 +66,7 @@ That's really the only advice I have and its worth the markdown its written on p
 
 ## Ways I can help you if you want to schedule a chat 
 
-I get a lot of people asking to chat with me and I *do* want to do that. On the other hand I have to "deep work". 
-
-So, I am torn between being rude and not scheduling an interruptions to my work (deterministic interruptions are interruptions nonetheless), and the possibly even ruder but highly likely possibility that I completely forget a 15 minute call we set up. I politely suggest asynchronous communication via the above channels such as the Microprediction Slack, Crunch Discord, Linked-In etc. I might reinstate "office hours" soon, for anyone who wants to just chat with me while I'm on Zwift. Hmmm, if you are vey clever you could detect when I'm on Zwift and then ping me for a call. 
+Tue 8pm and Friday noon EST I have "office hours" that are announced in the [crunch discord](https://discord.gg/35NZpeZ5). 
 
 
 ## Ways you can help me by not helping me 
