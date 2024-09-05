@@ -38,9 +38,12 @@ Hi if you don't know me I built the industry's first real-time "mid" for credit 
 Our "house" algorithms aren't completely shabby either and probably already better than what a few quants will build for you. However, its the use of the crowd in a granular manner that will give you the opportunity to create something truly solid and upsell derivatives of your data to all your clients for tens of thousands per month.  
 
 ## Ways I can help if you are prepared to have others inspect your own model forecast errors for residual signal. 
-Ah never mind, nobody is. 
+This makes you an unusual person btw. 
 
-(But see above)
+- Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world.
+- Now imagine dangling you model residuals in front of them
+
+There isn't a better way. Reach out if you're serious about using this pattern. 
 
 
 ## Ways I can help you if you want a job
