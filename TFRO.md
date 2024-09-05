@@ -1,11 +1,8 @@
 
 # Thanks for reaching out stranger
 
-This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition.  
+This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
 
-Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
-
-It's good to connect to smart people and improve feed quality. Thanks for that. 
 
 ## Ways I can help you if you are a central bank watching portfolio manager
 Just getting started with this one but...
@@ -40,7 +37,7 @@ Our "house" algorithms aren't completely shabby either and probably already bett
 This makes you an unusual person btw. 
 
 - Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world.
-- Now imagine dangling you model residuals in front of them
+- Now imagine dangling you model residuals in front of them. 
 
 There isn't a better way. Reach out if you're serious about using this pattern. 
 
@@ -55,14 +52,18 @@ If you are good enough, you won't need one. I'm helping construct a place where 
 That said:
   
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
-- I shall list job opennings for my own firm here too as they arise. 
+- I shall list job opennings for my own firm here too as they arise.
+
+It is possible that by the time you read this careers@crunchdao.com will work. 
 
 ## Ways I can help you if you want career advice
 Yeah I know I wouldn't want that from me either but I do get asked a lot. 
 
-- If you want career advice from me, the best options would be my "office hours" (I will reinstate them soon) or catching me while I'm on zwift (I'm not to hard to find on the latter). 
+- If you want career advice from me, the best options would be my "office hours" (I will reinstate them soon). 
 
-- I have just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time. That's really the only advice I have, but there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc. Relish in the abstractness and apparent lack of utility. Because you will be wrong.    
+- I have just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time.
+
+That's really the only advice I have and its worth the markdown its written on probably. But there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc. Relish in the abstractness and apparent lack of utility. Because you will be wrong.    
 
 ## Ways I can help you if you want to schedule a chat 
 
@@ -91,7 +92,7 @@ So, I am torn between being rude and not scheduling an interruptions to my work 
   
 ## Ways you can help me if you have capital *and are actively investing* in early-to-mid stage
 
-Well yes, that is relevant. 
+Well yes, that is relevant!  
 
 
 
