@@ -5,7 +5,7 @@ This is my current "hey nice to connect on Linked-In" page where I try to avoid 
 
 UPDATE: I've joined forces with Crunch per my [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop) and the [crunch discord](https://discord.gg/35NZpeZ5) is not a bad place to find me.
 
-## Ways I can help you if you are a central bank watching portfolio manager
+## Ways I can help you if you are a central-bank-watcher 
 Just getting started with this one but just imagine a million generalizations of...
 
 ![](https://github.com/microprediction/monteprediction/blob/main/how_defensive.png)
