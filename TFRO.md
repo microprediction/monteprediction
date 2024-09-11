@@ -82,7 +82,7 @@ The events are posted in the [crunch discord](https://discord.gg/35NZpeZ5) annou
 
 ## Ways you can actually help me
 
-- Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home).
+- Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
 - Introductions to *active* early to mid-stage investors are appreciated
 - Introductions to financial market participants whose interest might be piqued by our unique setup
