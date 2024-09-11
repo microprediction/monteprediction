@@ -10,7 +10,7 @@ Just getting started with this one but just imagine a million generalizations of
 
 ![](https://github.com/microprediction/monteprediction/blob/main/how_defensive.png)
 
-Ping me on Linked-In for access. 
+for every country and many other categories of document. By the time you read this it might even be working at [https://pi.crunchdao.io/](https://pi.crunchdao.io/). 
 
 ## Ways I can help you if you have twenty bucks or less
 
@@ -66,7 +66,7 @@ That's really the only advice I have and its worth the markdown its written on p
 
 ## Ways I can help you if you want to schedule a chat 
 
-Tue 8pm and Friday noon EST I have "office hours" that are announced in the [crunch discord](https://discord.gg/35NZpeZ5). 
+Tue 8pm EST and maybe Friday noon EST I have "office hours". They are not very professorial. It is merely a time I try to set aside, family committments allowing, to be available if anyone wants to chat or ask questions I cannot answer.  They are listed in the [crunch discord](https://discord.gg/35NZpeZ5). Linked-In doesn't provide a public facing list of these events, which is beyond daft, so I can't provide a link to them but here's stale one [Tue Oct 1st](https://www.linkedin.com/events/7237538167250198528/comments/).   
 
 
 ## Ways you can help me by not helping me 
