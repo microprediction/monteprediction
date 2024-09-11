@@ -1,4 +1,4 @@
-f
+
 # Thanks for reaching out stranger
 
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
