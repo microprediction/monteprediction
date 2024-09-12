@@ -1,4 +1,4 @@
-
+x
 # Thanks for reaching out stranger
 
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
@@ -28,7 +28,7 @@ Hi if you don't know me I built the industry's first real-time "mid" for credit 
 
 - I work on creating extremely high quality enhanced data feeds (for market making and taking) in a very different decentralized way. 
 - We have 6,000 data scientists including 600 PhD's around the globe.
-- I help devise a mildly complex combinations of challenges that combine to take advantage of this diverse talent pool. The result is better and better models being promoted to production, but also better and better attacks on the same, and ongoing performance analysis, and generative models and so forth. 
+- I help devise mildly complex combinations of challenges that combine to take advantage of this diverse talent pool. The result is better and better models being promoted to production, but also better and better attacks on the same, and ongoing performance analysis, and generative models and so forth. 
 - The result is incredibly hard to beat. We've proven that quality exceeds that of the most expensive private quant team every assembled (in a certain middle eastern country, you know what team I refer to).
 - There are more hints at this process if you read my book backwards.  
 
