@@ -8,7 +8,7 @@ UPDATE: I've joined forces with Crunch per my [post](https://www.linkedin.com/po
 ## Ways I can help you if you are a central-bank-watcher 
 Just getting started with this one but just imagine a million generalizations of...
 
-![](https://github.com/microprediction/monteprediction/blob/main/how_defensive.png)
+![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
 for every country and many other categories of document. By the time you read this it might even be working at [https://pi.crunchdao.io/](https://pi.crunchdao.io/). 
 
