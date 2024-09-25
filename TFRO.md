@@ -10,7 +10,7 @@ Just getting started with this one but just imagine a million generalizations of
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
-for every country and many other categories of document. By the time you read this it might even be working at [https://pi.crunchdao.io/](https://pi.crunchdao.io/). 
+for every country and many other categories of document. See [https://pi.crunchdao.io/](https://pi.crunchdao.com/). 
 
 ## Ways I can help you if you have twenty bucks or less
 
