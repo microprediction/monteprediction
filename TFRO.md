@@ -1,4 +1,4 @@
-x\
+
 # Thanks for reaching out stranger
 
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
@@ -22,13 +22,13 @@ I've written:
 
 No warrantees! 
 
-## Ways I can help if you or your students are looking to learn data science, machine learning, causality etc
+## Ways I can help if you or your students are looking to learn:
 If you'd like a custom designed learning path, the good news is that O1-Preview can provide it. 
 
-Challenges:
+Here's what I can provide:
 
-- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney.
-- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb). 
+- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. 
+- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) to challenge you in generating realistic Monte Carlo scenarios.  
 
 See [CrunchDAO.com](www.crunchdao.com) for more. 
 
