@@ -1,4 +1,4 @@
-x
+x\
 # Thanks for reaching out stranger
 
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
@@ -16,12 +16,21 @@ for every country and many other categories of document. See [https://pi.crunchd
 
 I've written:
 
-- A fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) you can play immediately. 
 - A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Various [papers](https://github.com/microprediction/home) articles and provocations.
 
 No warrantees! 
+
+## Ways I can help if you or your students are looking to learn data science, machine learning, causality etc
+If you'd like a custom designed learning path, the good news is that O1-Preview can provide it. 
+
+Challenges:
+
+- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney.
+- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb). 
+
+See [CrunchDAO.com](www.crunchdao.com) for more. 
 
 ## Ways I can help you if you are a broker, venue, or market data provider
 Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions), also algos for J.P. Morgan and other things. But now...
