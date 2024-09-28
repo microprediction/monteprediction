@@ -63,7 +63,9 @@ In the meantime, at the risk of repetition:
 - I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
 - I also suggest [www.cruchdao.com](https://www.crunchdao.com) which is being hooked into legit ongoing scalable financial problems. There are also one-off things that are quite novel such as the [causality contest](https://www.youtube.com/watch?v=AVBE5HLDUIw) which I've motivated [here](https://www.linkedin.com/posts/petercotton_adia-lab-causal-discovery-challenge-trailer-activity-7238230582466412547-YYFr?utm_source=share&utm_medium=member_desktop). 
 
-That said:
+I was able to spend a couple of nights and a bit of help from ChatGPT to get on the first page of the leaderboard for the Causality contest. And I'm just an old quant. You should be able to do better. Please do not repeatedly follow up with me about a CV you have sent if you haven't taken the slightest interest in the above. 
+
+Now all that said:
   
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 - I shall list job opennings for my own firm here too as they arise.
@@ -98,6 +100,7 @@ Much appreciated!
 
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
+- Not replying to the link I sent you with "what is this link?". It's a link. 
 - Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger.  
 - Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or a question like "Are you findings that ...". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
