@@ -83,14 +83,23 @@ Tue 8pm-9:30pm EST and maybe Friday noon EST I have "office hours" for want of a
 
 The events are posted in the [crunch discord](https://discord.gg/35NZpeZ5) annoucements. Linked-In doesn't provide a public facing list of these events, which is beyond daft, so I can't provide a link to them but here's a stale one [Tue Oct 1st](https://www.linkedin.com/events/7237538167250198528/comments/). Please randomize your arrival time. Don't worry I won't leave if no-one turns up I'll just sulk a bit or get on Zwift. 
 
+## Ways I can help you if you "would like to learn more about my business"
+Terrific. Best way would be to:
+
+ - Sign up at [CrunchDAO](https://www.crunchdao.com/)
+ - Go through the process of entering a contest to help advance the science of causality, say, or help detect cancer.
+ - Contribute to open source code ([my repos](https://github.com/microprediction) are probably the least worthy but you'll find others I'm sure).
+ - Ask questions in the discord and gain an understanding of what might help data scientists build models
+ - Read my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) which, although already dated, is probably a prerequisite to understanding my business. 
+
+Much appreciated!
 
 ## Ways you can help me by not helping me 
 
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
-- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a stranger.  
-- Not inviting me to help you learn about my business in any other way so you can sell me crap.
-- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah". This will make me want to strangle you. 
+- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger.  
+- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or a question like "Are you findings that ...". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
 
 ## Ways you can actually help me
