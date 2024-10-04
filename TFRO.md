@@ -114,9 +114,9 @@ Much appreciated!
 - Introductions to extremely good developers (solana/web3; kafka etc/streaming analytics; fx/ir/market making algo)
 - I'm sure you can think of something else. 
   
-## Ways you can help me if you have capital *and are actively investing* in early-to-mid stage
+## If you have capital 
 
-Well yes, that is relevant!  
+Be quick.  
 
 
 
