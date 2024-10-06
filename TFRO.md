@@ -1,6 +1,5 @@
 
 # Thanks for reaching out stranger
-
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
 
 UPDATE: I've joined forces with Crunch per my [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop) and the [crunch discord](https://discord.gg/6WZTsC43) is not a bad place to find me.
@@ -22,68 +21,32 @@ I've written:
 
 No warrantees! 
 
-## Ways I can help if you or your students are looking to learn:
-If you'd like a custom designed learning path, the good news is that O1-Preview can provide it. 
-
-Here's what I can provide:
+## Ways I can help if you or your students are looking to learn ... whatever it's called these days
 
 - See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. 
-- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) to challenge you in generating realistic Monte Carlo scenarios.  
-
-See [CrunchDAO.com](www.crunchdao.com) for more. 
+- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) to challenge you in generating realistic Monte Carlo scenarios. 
+- See [CrunchDAO.com](www.crunchdao.com) for more. 
 
 ## Ways I can help you if you are a broker, venue, or market data provider
-Hi if you don't know me I built the industry's first real-time "mid" for credit (Benchmark Solutions), also algos for J.P. Morgan and other things. But now...
+I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
 
-- I work on creating extremely high quality enhanced data feeds (for market making and taking) in a very different decentralized way. 
-- We have 6,000 data scientists including 600 PhD's around the globe.
-- I help devise mildly complex combinations of challenges that combine to take advantage of this diverse talent pool. The result is better and better models being promoted to production, but also better and better attacks on the same, and ongoing performance analysis, and generative models and so forth. 
-- The result is incredibly hard to beat. We've proven that quality exceeds that of the most expensive private quant team every assembled (in a certain middle eastern country, you know what team I refer to).
-- There are more hints at this process if you read my book backwards.  
-
-Our "house" algorithms aren't completely shabby either and probably already better than what a few quants will build for you. However, its the use of the crowd in a granular manner that will give you the opportunity to create something truly solid and upsell derivatives of your data to all your clients for tens of thousands per month.  
-
-## Ways I can help if you are prepared to have others inspect your own model forecast errors for residual signal. 
-This makes you an unusual person btw. 
-
-- Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world.
-- Now imagine dangling you model residuals in front of them. 
-
-There isn't a better way. Reach out if you're serious about using this pattern. 
-
+## Ways I can help if you check your model forecast errors for residual signal. 
+Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world.
+- See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek. 
 
 ## Ways I can help you if you want a job
-
-If you are good enough, you won't need one. 
-
-I'm helping construct a place where you can lodge models and they will make you money forever. 
-
-In the meantime, at the risk of repetition:
-
-- I created [www.monteprediction.com](https://www.monteprediction.com/) as a way for people to prove themselves.
-- I also suggest [www.cruchdao.com](https://www.crunchdao.com) which is being hooked into legit ongoing scalable financial problems. There are also one-off things that are quite novel such as the [causality contest](https://www.youtube.com/watch?v=AVBE5HLDUIw) which I've motivated [here](https://www.linkedin.com/posts/petercotton_adia-lab-causal-discovery-challenge-trailer-activity-7238230582466412547-YYFr?utm_source=share&utm_medium=member_desktop). 
-
-I was able to spend a couple of nights and a bit of help from ChatGPT to get on the first page of the leaderboard for the Causality contest. And I'm just an old quant. You should be able to do better. Please do not repeatedly follow up with me about a CV you have sent if you haven't taken the slightest interest in the above. 
-
-Now all that said:
+If you are good enough, you won't need one. See above.
   
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 - I shall list job opennings for my own firm here too as they arise.
 
 It is possible that by the time you read this careers@crunchdao.com will work. 
 
-## Ways I can help you if you want career advice (see also below)
-Yeah I know I wouldn't want that from me either but I do get asked a lot. 
-
-- I have just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. The opposite is often true, whether we are talking about choice of courses or any other way to spend your knowledge investment time.
-
-That's really the only advice I have and its worth the markdown its written on probably. But there are several corollaries that will be obvious to ChatGPT. Namely, one should probably learn the key ideas from all 500 mathematical subject areas, to the extent that's possible. Same for computer science etc. Relish in the abstractness and apparent lack of utility. Because you will be wrong.    
+## Ways I can help you if you want career advice 
+I don't have much. Maybe just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. Read [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment. 
 
 ## Ways I can help you if you want to schedule a chat 
-
-Tue 8pm-9:30pm EST and maybe Friday noon EST I have "office hours" for want of a better word. This does not imply I am professorial. It is merely a time I try to set aside, family committments allowing, to be available if anyone wants to chat or ask questions I cannot answer about anything. A small price to pay for not having to pocket my calendar with productivity-destroying 15 minute chats that I'll almost certainly forget. 
-
-The events are posted in the [crunch discord](https://discord.gg/35NZpeZ5) annoucements. Linked-In doesn't provide a public facing list of these events, which is beyond daft, so I can't provide a link to them but here's a stale one [Tue Oct 1st](https://www.linkedin.com/events/7237538167250198528/comments/). Please randomize your arrival time. Don't worry I won't leave if no-one turns up I'll just sulk a bit or get on Zwift. 
+Tue 8pm-9:30pm EST and maybe Friday noon EST I have "office hours" for want of a better word. This does not imply I am professorial. It is merely a time I try to set aside, family committments allowing, to be available if anyone wants to chat. The events are posted in the [crunch discord](https://discord.gg/35NZpeZ5) annoucements. Linked-In doesn't provide a public facing list of these events, which is beyond daft, so I can't provide a link to them but here's a stale one [Tue Oct 1st](https://www.linkedin.com/events/7237538167250198528/comments/). Please randomize your arrival time. Don't worry I won't leave if no-one turns up I'll just sulk a bit or get on Zwift. 
 
 ## Ways I can help you if you "would like to learn more about my business"
 Terrific. Best way would be to:
@@ -97,7 +60,6 @@ Terrific. Best way would be to:
 Much appreciated!
 
 ## Ways you can help me by not helping me 
-
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
 - Not replying to the link I sent you with "what is this link?". It's a link. 
