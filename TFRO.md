@@ -9,9 +9,7 @@ Just getting started with this one but just imagine a million generalizations of
 
 for every country and many other categories of document. See [https://pi.crunchdao.com/](https://pi.crunchdao.com/). 
 
-## Ways I can help you if you have twenty bucks or less
-
-I've written:
+## Stuff I've written ([home page](https://github.com/microprediction/home))
 
 - A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 - Free open-source software ... see [here](https://github.com/microprediction)
@@ -19,11 +17,14 @@ I've written:
 
 No warrantees! 
 
-## Ways I can help if you or your students are looking to learn ... whatever it's called these days
+## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
+(Insert non-tribal description of whatever it is we do with computers these days)
 
-- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. 
-- Also this fun eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) to challenge you in generating realistic Monte Carlo scenarios. 
-- See [CrunchDAO.com](www.crunchdao.com) for more. 
+- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. 
+  
+- If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. 
+ 
+- See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.  
 
 ## Ways I can help you if you are a broker, venue, or market data provider
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
