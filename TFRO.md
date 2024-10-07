@@ -2,13 +2,6 @@
 # Thanks for reaching out stranger
 This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! And, if we haven't talked in a while the update is that I've joined forces with Crunch per my [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop) and the [crunch discord](https://discord.gg/6WZTsC43) is not a bad place to find me.
 
-## Ways I can help you if you are a central bank watcher 
-Just getting started with this one but just imagine a million generalizations of...
-
-![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
-
-for every country and many other categories of document. See [https://pi.crunchdao.com/](https://pi.crunchdao.com/). 
-
 ## Stuff I've written ([home page](https://github.com/microprediction/home))
 
 - A [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) about AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
@@ -16,6 +9,15 @@ for every country and many other categories of document. See [https://pi.crunchd
 - Various [papers](https://github.com/microprediction/home) articles and provocations.
 
 No warrantees! 
+
+## Ways I can help you if you are a central bank watcher 
+Just getting started with this one but just imagine a million generalizations of...
+
+![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
+
+for every country and many other categories of document. See [https://pi.crunchdao.com/](https://pi.crunchdao.com/). 
+
+
 
 ## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers these days)
