@@ -33,9 +33,8 @@ Some students ask me for advice on what to learn. I really just have [this](http
 ## Ways I can help you if you are a broker, venue, or market data provider
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
 
-## Ways I can help if you check your model forecast errors for residual signal. 
-Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world.
-- See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek. 
+## Ways I can help if you monitor your models 
+Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world. Imagine those attacking your model residuals to try to discern any remnant signal or minor deviations from IID or martingality. I can do this for you pretty easily if you are serious. See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek. 
 
 ## Ways I can help you if you want a job
 If you are good enough, you won't need one. See above.
