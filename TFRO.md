@@ -22,11 +22,13 @@ for every country and many other categories of document. See [https://pi.crunchd
 ## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers these days)
 
-- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. 
+- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. Sadly I've fallen off page one of the leaderboard but you can do better. 
   
-- If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. 
+- If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. There is currently no prizemoney but I strongly suspect that will change soon. 
  
-- See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.  
+- See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.
+
+Some students ask me for advice on what to learn. I really just have [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment below and aside from the challenges offered here, I doubt my other advice would be terribly differentiated.   
 
 ## Ways I can help you if you are a broker, venue, or market data provider
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
