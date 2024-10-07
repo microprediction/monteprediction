@@ -64,9 +64,9 @@ Much appreciated!
 ## Ways you can help me by not helping me 
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
-- Not replying to the link I sent you with "what is this link?". It's a link. 
+- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
 - Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger.  
-- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or a question like "Are you findings that ...". This will make me want to strangle you. 
+- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. Do you marketing people really think anyone likes these lame attempts at positioning / manipulation? 
 - Not offering a limited time trial of anything at all, ever. 
 
 ## Ways you can actually help me
