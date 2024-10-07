@@ -53,11 +53,11 @@ Tue 8pm-9:30pm EST and maybe Friday noon EST I have "office hours" for want of a
 ## Ways I can help you if you "would like to learn more about my business"
 Terrific. Best way would be to:
 
- - Sign up at [CrunchDAO](https://www.crunchdao.com/)
+ - Read my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network). 
+ - Sign up at [CrunchDAO](https://www.crunchdao.com/). 
  - Go through the process of entering a contest to help advance the science of causality, say, or help detect cancer.
- - Contribute to open source code ([my repos](https://github.com/microprediction) are probably the least worthy but you'll find others I'm sure).
- - Ask questions in the discord and gain an understanding of what might help data scientists build models
- - Read my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network) which, although already dated, is probably a prerequisite to understanding my business. 
+ - Ask questions in the discord and gain an understanding of what might help data scientists build models.
+ - If you have some cool tool that is free forever that a community of quantitative people could use to assist them, by all means recommend it. 
 
 Much appreciated!
 
