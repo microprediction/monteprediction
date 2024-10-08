@@ -10,6 +10,10 @@ This is my current "hey nice to connect on Linked-In" page where I try to avoid 
 
 No warrantees! 
 
+## If you want to chat
+Tue 8:30pm-10:30pm EST I try to set aside a time for anyone to chat. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. 
+
+
 ## Ways I can help you if you are a central bank watcher 
 Just getting started with this one but just imagine a million generalizations of...
 
@@ -47,8 +51,6 @@ It is possible that by the time you read this careers@crunchdao.com will work.
 ## Ways I can help you if you want career advice 
 I don't have much. Maybe just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. Read [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment. 
 
-## Ways I can help you if you want to schedule a chat 
-Tue 8pm-9:30pm EST and maybe Friday noon EST I have "office hours" for want of a better word. This does not imply I am professorial. It is merely a time I try to set aside, family committments allowing, to be available if anyone wants to chat. The events are posted in the [crunch discord](https://discord.gg/35NZpeZ5) annoucements. Linked-In doesn't provide a public facing list of these events, which is beyond daft, so I can't provide a link to them but here's a stale one [Tue Oct 1st](https://www.linkedin.com/events/7237538167250198528/comments/). Please randomize your arrival time. Don't worry I won't leave if no-one turns up I'll just sulk a bit or get on Zwift. 
 
 ## Ways I can help you if you "would like to learn more about my business"
 Terrific. Best way would be to:
