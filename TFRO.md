@@ -76,13 +76,14 @@ Much appreciated!
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
 - Introductions to *active* early to mid-stage investors are appreciated
+- I'd love it if you wrote more unit tests for [endersgame](https://github.com/microprediction/endersgame) and that might be lucrative for you. 
 - Introductions to financial market participants whose interest might be piqued by our unique setup
 - Introductions to extremely good developers (solana/web3; kafka etc/streaming analytics; fx/ir/market making algo)
 - I'm sure you can think of something else. 
   
 ## If you have capital 
 
-Be quick.  
+Be quick and DM me.  
 
 
 
