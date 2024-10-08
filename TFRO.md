@@ -49,8 +49,7 @@ If you are good enough, you won't need one. See above.
 It is possible that by the time you read this careers@crunchdao.com will work. 
 
 ## Ways I can help you if you want career advice 
-I don't have much. Maybe just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow. I believe one should never, ever try to predict that something you learn *won't* be useful - or dimiss things for that reason. Do not be guided by what you perceive to be commercially significant. Read [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment. 
-
+Not sure I'm the best to ask and I don't have much that's truly differentiated on that front. Maybe just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow: namely that I believe one should never, ever try to predict that something you learn *won't* be useful - or prune your search and learning for that reason. I made a comment [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) down those lines. 
 
 ## Ways I can help you if you "would like to learn more about my business"
 Terrific. Best way would be to:
