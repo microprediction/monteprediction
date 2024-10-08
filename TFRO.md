@@ -22,7 +22,6 @@ Just getting started with this one but just imagine a million generalizations of
 for every country and many other categories of document. See [https://pi.crunchdao.com/](https://pi.crunchdao.com/). 
 
 
-
 ## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers these days)
 
@@ -38,7 +37,7 @@ Some students ask me for advice on what to learn. I really just have [this](http
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
 
 ## Ways I can help if you monitor your models 
-Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world. Imagine those attacking your model residuals to try to discern any remnant signal or minor deviations from IID or martingality. I can do this for you pretty easily if you are serious. See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek. 
+Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world. Imagine those attacking your model residuals to try to discern any remnant signal or minor deviations from IID or martingality. I can do this for you pretty easily if you are serious. See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek, or read this [thread](https://www.linkedin.com/feed/update/urn:li:ugcPost:7249114298076073984?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7249114298076073984%2C7249233969139920896%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287249233969139920896%2Curn%3Ali%3AugcPost%3A7249114298076073984%29). 
 
 ## Ways I can help you if you want a job
 If you are good enough, you won't need one. See above.
