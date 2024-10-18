@@ -1,6 +1,6 @@
 
 # Thanks for reaching out stranger
-This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! And, if we haven't talked in a while the update is that I've joined forces with Crunch per my [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop) and the [crunch discord](https://discord.gg/6WZTsC43) is not a bad place to find me.
+This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! And, if we haven't talked in a while the update is that I've joined forces with Crunch per my [post](https://www.linkedin.com/posts/petercotton_artificialintelligence-ai-forex-activity-7237212886308122624-bZLA?utm_source=share&utm_medium=member_desktop) 
 
 ## Stuff I've written ([home page](https://github.com/microprediction/home))
 
@@ -11,7 +11,9 @@ This is my current "hey nice to connect on Linked-In" page where I try to avoid 
 No warrantees! 
 
 ## If you want to chat
-Tue 8:30pm-10:30pm EST I try to set aside a time for anyone to chat. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. 
+
+- [crunch discord](https://discord.gg/NuqJTcYQ2J) 
+- Tuesdays 8:30pm-10:00pm EST I try to set aside a time for anyone to chat. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. 
 
 
 ## Ways I can help you if you are a central bank watcher 
