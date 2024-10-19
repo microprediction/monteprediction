@@ -29,6 +29,8 @@ for every country and many other categories of document. See [https://pi.crunchd
 ## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers these days)
 
+- Brand new contest here to detect small departures from martingality. And you'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
+
 - See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. Sadly I've fallen off page one of the leaderboard but you can do better. 
   
 - If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. There is currently no prizemoney but I strongly suspect that will change soon. 
