@@ -43,18 +43,25 @@ Some students ask me for advice on what to learn. I really just have [this](http
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
 
 ## Ways I can help if you monitor your models 
-Imagine a giant pile of univariate prediction algorithms authored by thousands of people around the world. Imagine those attacking your model residuals to try to discern any remnant signal or minor deviations from IID or martingality. I can do this for you pretty easily if you are serious. See [Ender's Game](https://github.com/microprediction/endersgame) for a sneak peek, or read this [thread](https://www.linkedin.com/feed/update/urn:li:ugcPost:7249114298076073984?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7249114298076073984%2C7249233969139920896%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287249233969139920896%2Curn%3Ali%3AugcPost%3A7249114298076073984%29). 
+I can help you with the world's largest stock-pile of univariate "attackers" that detect small departures from martingality. 
 
 ## Ways I can help you if you want a job
-If you are good enough, you won't need one. See above.
+If you are good enough, you won't need one. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
   
 - I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
 - I shall list job opennings for my own firm here too as they arise.
 
 It is possible that by the time you read this careers@crunchdao.com will work. 
 
-## Ways I can help you if you want career advice 
-Not sure I'm the best to ask and I don't have much that's truly differentiated on that front. Maybe just one piece of advice that is intended to be counter to some thinking I have seen in the eager yound minds of tomorrow: namely that I believe one should never, ever try to predict that something you learn *won't* be useful - or prune your search and learning for that reason. I made a comment [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) down those lines. 
+
+
+## Ways you can help me by not helping me 
+- Not asking me if I've considered using AI in my business. 
+- Not asking me if I need consultants.
+- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
+- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger.  
+- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. Do you marketing people really think anyone likes these lame attempts at positioning / manipulation? 
+- Not offering a limited time trial of anything at all, ever. 
 
 ## Ways I can help you if you "would like to learn more about my business"
 Terrific. Best way would be to:
@@ -66,14 +73,6 @@ Terrific. Best way would be to:
  - If you have some cool tool that is free forever that a community of quantitative people could use to assist them, by all means recommend it. 
 
 Much appreciated!
-
-## Ways you can help me by not helping me 
-- Not asking me if I've considered using AI in my business. 
-- Not asking me if I need consultants.
-- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
-- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger.  
-- Never, ever, reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. Do you marketing people really think anyone likes these lame attempts at positioning / manipulation? 
-- Not offering a limited time trial of anything at all, ever. 
 
 ## Ways you can actually help me
 
