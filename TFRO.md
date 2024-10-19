@@ -26,7 +26,7 @@ Just getting started with this one but just imagine a million generalizations of
 for every country and many other categories of document. See [https://pi.crunchdao.com/](https://pi.crunchdao.com/). 
 
 
-## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
+## If you or your students are looking to hone your "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers and mathematics these days)
 
 - Brand new contest here to detect small departures from martingality. And you'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
