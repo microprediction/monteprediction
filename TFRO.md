@@ -27,7 +27,7 @@ for every country and many other categories of document. See [https://pi.crunchd
 
 
 ## Ways I can help if you or your students are looking to learn "AI", ML, Math, Stats etc ...
-(Insert non-tribal description of whatever it is we do with computers these days)
+(Insert non-tribal description of whatever it is we do with computers and mathematics these days)
 
 - Brand new contest here to detect small departures from martingality. And you'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
 
