@@ -46,6 +46,11 @@ I don't mind sharing my personal reading list on robust portfolio and ensembling
 ## Ways I can help you if you are a broker, venue, or market data provider
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
 
+![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
+
+
+
+
 ## Ways I can help if you monitor your models 
 I can help you with the world's largest stock-pile of univariate "attackers" that detect small departures from martingality. 
 
