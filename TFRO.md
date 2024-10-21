@@ -38,7 +38,7 @@ for every country and many other categories of document. See [https://pi.crunchd
 - See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.
 
 ## If you are looking for general guidance
-Some students ask me for very general advice on what to learn or what do do with their career. But being old doesn't actually make me wise. I really just have [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment and aside from the challenges offered above, I doubt my other advice would be terribly differentiated.
+Some students ask me for very general advice on what to learn or what do do with their career. But being old doesn't actually make me wise. I really just have [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment and aside from that or the challenges offered above, I doubt my other advice would be terribly differentiated.
 
 ## If you are looking for reading recommendations
 I don't mind sharing my personal reading list on robust portfolio and ensembling literature [here](https://github.com/microprediction/precise/blob/main/LITERATURE.md), but it is what is is. 
