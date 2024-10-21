@@ -29,7 +29,7 @@ for every country and many other categories of document. See [https://pi.crunchd
 ## If you or your students are looking to hone your "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers and mathematics these days)
 
-- Brand new contest here to detect small departures from martingality. And you'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
+- New $10,000 contest to detect small departures from martingality. You'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
 
 - See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. Sadly I've fallen off page one of the leaderboard but you can do better. 
   
