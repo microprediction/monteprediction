@@ -37,7 +37,11 @@ for every country and many other categories of document. See [https://pi.crunchd
  
 - See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.
 
-Some students ask me for advice on what to learn. I really just have [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment below and aside from the challenges offered here, I doubt my other advice would be terribly differentiated.   
+## If you are looking for things to read or general guidance
+
+- Some students ask me for very general advice on what to learn. I really just have [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment below and aside from the challenges offered here, I doubt my other advice would be terribly differentiated.
+
+-  I don't mind sharing my personal reading list on robust portfolio and ensembling literature [here](https://github.com/microprediction/precise/blob/main/LITERATURE.md), but it is what is is. 
 
 ## Ways I can help you if you are a broker, venue, or market data provider
 I create extremely high quality real-time enhanced data feeds (mids etc) for algo trading, leveraging a community of 6,000 quants. 
