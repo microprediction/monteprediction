@@ -14,7 +14,7 @@ No warrantees!
 
 ## If you want to chat
 
-- [crunch discord](https://discord.gg/NuqJTcYQ2J) 
+- See [crunch discord](https://discord.gg/NuqJTcYQ2J) 
 - Tuesdays 8:30pm-10:00pm EST I try to set aside a time for anyone to chat. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. 
 
 
