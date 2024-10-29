@@ -1,8 +1,6 @@
 
 # Thanks for reaching out stranger
-This is my current "hey nice to connect on Linked-In" page where I try to avoid repetition. It's good to connect to smart people and improve feed quality. Thanks for that. 
-
-Profuse apologies if I flicked this to you absent mindedly while watching Gossip Girl with my daughter and we actually know each other! 
+This is my current "hey nice to connect on Linked-In" page.
 
 ## Stuff I've written ([home page](https://github.com/microprediction/home))
 
@@ -28,6 +26,8 @@ for every country and many other categories of document. See [https://pi.crunchd
 
 ## If you or your students are looking to hone your "AI", ML, Math, Stats etc ...
 (Insert non-tribal description of whatever it is we do with computers and mathematics these days)
+
+- Incredible new contest just launched! See [lecture one](https://www.youtube.com/watch?v=9OTvuvr81R0), [lecture two](https://www.youtube.com/watch?v=02SScMdkgY0&t=42s) and [lecture three](https://www.youtube.com/watch?v=wqYTfHe7snk) put together by the Broad Institute at MIT and Harvard. That's your biology crash course. Then you'll be ready to take H&E images and predict transciptomics data. In other words, predict the result of an expensive test procedure from a cheap one to save lives. 
 
 - New $10,000 contest to detect small departures from martingality. You'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
 
