@@ -33,11 +33,10 @@ for every country and many other categories of document. See [https://pi.crunchd
 
 - New $10,000 contest to detect small departures from martingality. You'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
 
-- See [README.md](https://github.com/microprediction/microprediction/blob/master/README.md) and share in $100,000 in prizemoney while learning about causal discovery. This is a very intellectually engaging contest I personally enjoy a lot. Sadly I've fallen off page one of the leaderboard but you can do better. 
   
 - If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. There is currently no prizemoney but I strongly suspect that will change soon. 
  
-- See [CrunchDAO.com](www.crunchdao.com) for more challenges including a martingale and a cancer contest soon.
+- See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
 ## If you are looking for general guidance
 Some students ask me for very general advice on what to learn or what do do with their career, but they invariably ignore the first piece of advice I give them so that's as far as things go. That advice is to never, ever attempt to determine that something mathematical or technical won't be useful and is not worth your time to learn. There is copious science suggesting that pruning of this sort will materially impact your long term potential. That's all I've got. See [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment. 
