@@ -31,7 +31,7 @@ for every country and many other categories of document. See [https://pi.crunchd
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/broad.png)
 
-- New $10,000 contest to detect small departures from martingality. You'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
+- Also new: a $120,000 contest to detect small departures from martingality. You'll love the [spash page](https://mid-one.crunchdao.com/) where you can play space-invaders. 
 
   
 - If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. There is currently no prizemoney but I strongly suspect that will change soon. 
