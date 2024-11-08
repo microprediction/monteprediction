@@ -41,9 +41,11 @@ for every country and many other categories of document. See [https://pi.crunchd
 ## If you are looking for general guidance
 Some students ask me for very general advice on what to learn or what do do with their career, but they invariably ignore the first piece of advice I give them so I'm left thinking hmmm, should I offer more advice that will also be ignored?
 
-If you would also like to ignore the one tiny morsel of advice I'm pretty sure about then here it is. That advice is to never, ever attempt to determine that something mathematical or technical *won't* be useful and is not worth your time to learn. You *don't* know how your brain works. 
+Would you also like to dismiss the one tiny morsel of guidance I have any confidence in that is not completely platitudinous? Well here it is, the advice is to never, ever attempt to determine that something mathematical or technical *won't* be useful and is not worth your time to learn. 
 
-There is copious science suggesting that pruning learning consciously or though laziness will materially impact your long term potential. That's all I've got. See [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment. 
+Brief rationale: you *don't* know how your brain works. You don't know how the world works. You probably underestimate the power of abstraction and high level analogies. Moreover there is copious science suggesting that pruning learning consciously or though laziness will materially impact your long term potential. 
+
+That's all I've got. See [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment if you wish.  
 
 ## If you are looking for reading recommendations
 I don't mind sharing my personal reading list on robust portfolio and ensembling literature [here](https://github.com/microprediction/precise/blob/main/LITERATURE.md), but it is what is is. 
