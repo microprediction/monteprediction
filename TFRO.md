@@ -39,11 +39,11 @@ for every country and many other categories of document. See [https://pi.crunchd
 - See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
 ## If you are looking for general guidance
-Some students ask me for very general advice on what to learn or what do do with their career, but they invariably ignore the first piece of advice I give them so I'm left thinking hmmm, should I offer more advice that will also be ignored?
+Some students ask me for very general advice on what to learn or what do do with their career, but they invariably ignore the first and only non-platitudinous intellectual life-hack I offer, so I'm left thinking hmmm, should I offer more advice that will also be ignored? This would be bigger problem, I suppose, if I actually had any other advice to offer. 
 
-Would you also like to dismiss the one tiny morsel of guidance I have any confidence in that is not completely platitudinous? Well here it is, the advice is to never, ever attempt to determine that something mathematical or technical *won't* be useful and is not worth your time to learn. 
+Oh, so you want to know the one tiny morsel of wisdom I have? The only one I have any confidence in? Well here it is. Never, ever, ever attempt to determine that something mathematical or technical-but-not-arbitrary *won't* be useful, or is not worth your time to learn. 
 
-Brief rationale: you *don't* know how your brain works. You don't know how the world works. You probably underestimate the power of abstraction and high level analogies. Moreover there is copious science suggesting that pruning learning consciously or though laziness will materially impact your long term potential. 
+Brief rationale: you *don't* know how your brain works. You don't know how the world works. You probably underestimate the power of abstraction and high level analogies when, at a future date, your brain will attempt to grasp the world. Moreover, there is copious science suggesting that pruning learning consciously or though laziness will materially impact your long term potential. 
 
 That's all I've got. See [this](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) comment if you wish.  
 
