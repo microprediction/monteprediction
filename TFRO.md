@@ -6,7 +6,7 @@ This is my current "hey nice to connect on Linked-In" page.
 
 - A [book](https://mitpress.mit.edu/9780262047326/microprediction/) in the category of mild AI futurism that doesn't treat the reader like an idiot. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 - Free open-source software ... see [here](https://github.com/microprediction)
-- Various [papers](https://github.com/microprediction/home) articles and provocations.
+- Various [papers](https://github.com/microprediction/home) articles and the occasional useful [insight](https://www.linkedin.com/posts/petercotton_schur-complementary-allocation-a-unification-activity-7261933143971041280--hz6?utm_source=share&utm_medium=member_desktop), I hope. 
 
 No warrantees! 
 
@@ -14,9 +14,7 @@ No warrantees!
 Deterministic scheduled interruptions are interruptions nonetheless. 
 
 - See [crunch discord](https://discord.gg/NuqJTcYQ2J) 
-- Tuesdays 8:30pm-10:00pm EST I try to set aside a time for anyone to chat. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. Same google link every week. Same time. 
-
-Last week nobody turned up. So don't complain that I haven't returned your request for a "15 minute chat". 
+- Tuesdays 8:30pm-10:00pm EST I can chat, sometimes on the bike trainer. Event invite reached via [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) hopefully. Same google link every week. Same time. 
 
 ## Ways I can help you if you are a central bank watcher 
 Just getting started with this one but just imagine a million generalizations of...
