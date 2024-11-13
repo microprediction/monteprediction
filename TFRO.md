@@ -57,11 +57,11 @@ Not really. Well, maybe just this:
 
 Brief comment [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) on the topic.  
 
-## Are you hiring? 
+### 5. Are you hiring? 
 Currently not but if you are good enough, you won't need a job. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
 
-## I "would like to learn more about my business"
-Terrific. Best way would be to:
+### 6. Can I "learn more about your business"
+Oh boy, terrific. Best way would be to:
 
  - Read my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network). 
  - Sign up at [CrunchDAO](https://www.crunchdao.com/). 
