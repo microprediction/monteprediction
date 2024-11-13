@@ -6,7 +6,7 @@ This is my current "hey nice to connect on Linked-In" page. I written:
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
 
-I will briefly list the narrow list of things I can legitimately help you with
+I will briefly list the narrow set of things I can legitimately help you with
 
 ### If you are a broker, trading venue, algo trader ...
 or market data provider, or someone who needs to optimize execution. I create high quality real-time enhanced data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants.
