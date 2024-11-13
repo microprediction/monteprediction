@@ -13,7 +13,7 @@ or market data provider, or someone who needs to optimize execution. I create hi
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
 
-See [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
+See [mid-one contest](https://mid-one.crunchdao.com/) for an example of signal crowd-sourcing.  
 
 ### If you review prediction models, or care about your own
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
