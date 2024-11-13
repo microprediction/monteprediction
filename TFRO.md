@@ -9,7 +9,7 @@ This is my current "hey nice to connect on Linked-In can I help you" page. Here'
 If you run a business I will briefly list the small set of specific things I can legitimately help you with:
 
 ### If you want to be right 51.7% of the time and you are a broker, trading venue, algo trader ...
-or market data provider, or someone who needs to optimize execution, then I can enhance your already high quality real-time data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants. There's nothing mysterious about this. I just harvest the best univariate martingality `attackers`. See [mid-one contest](https://mid-one.crunchdao.com/) for an example of this type of crowd-sourcing. Please don't expect more than about 51.7% directional accuracy over short horizons. I don't like to over-promise.   
+or market data provider, or someone who needs to optimize execution, then I can enhance your already high quality real-time data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants. There's nothing mysterious about this. I just harvest the best univariate martingality `attackers`. See [mid-one contest](https://mid-one.crunchdao.com/) for an example of this type of crowd-sourcing. Please don't expect more than about 51.7% directional accuracy over short horizons. Please don't expect to profit from this if you are crossing the bid-offer spread. I don't like to over-promise.    
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
  
