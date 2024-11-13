@@ -45,9 +45,9 @@ I don't have any structured guidance and can only suggest some bespoke opportuni
 
 - If you are interested in generative methods there's also this long-running eleven-dimensional [game](https://github.com/microprediction/monteprediction_colab_examples/blob/main/monteprediction_entry.ipynb) I wrote to challenge you. Its a way to get familiar with Copulas and that sort of thing but you might very rapidly get to or beyond the SOTA for risk management by participating here. There is currently no prizemoney but I strongly suspect that will change soon. 
  
-- See [CrunchDAO.com](www.crunchdao.com) for more challenges
+See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
-### 3. What should I learn? 
+### 3. What should I read?
 I don't know but here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. It's all I've got. 
 
 ### 4. Do you have any general guidance? 
