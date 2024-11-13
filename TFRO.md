@@ -13,8 +13,8 @@ or market data provider, or someone who needs to optimize execution, then I can 
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
  
-### If you review prediction models, or care about your own
-I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. 
+### If you review prediction models, or care about your own, or realize somebody might help
+I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. You will instantly become the envy of all your model review friends, and establish yourself as a paragon of humble statistical virtue in your firm, just because you managed to get over your own cleverness whereas others could not. 
 
 ### If you are a central bank watcher 
 There's a free tool at [https://pi.crunchdao.com/](https://pi.crunchdao.com/) where you can quickly test your hunches. It will expand soon. 
