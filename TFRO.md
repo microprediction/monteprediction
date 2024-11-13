@@ -1,5 +1,5 @@
 
-# Thanks for reaching out stranger
+# Thanks for reaching out, stranger
 This is my current "hey nice to connect on Linked-In" page. I written:
 
 - A [book](https://mitpress.mit.edu/9780262047326/microprediction/) on prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
