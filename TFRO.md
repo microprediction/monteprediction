@@ -24,7 +24,7 @@ See [https://pi.crunchdao.com/](https://pi.crunchdao.com/)
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
 ### If you are interested in persuing a microprediction strategy at your firm
-... which is a lot easier than it was when I wrote my book. 
+It is a lot easier than it was when I wrote my book. 
 
 ### If you want an extra 20bps per year
 ... through some portfolio optimization that is entirely novel and unpublished, we can talk. How sneaky is it? Very. It is sneakier than my published work that unified the two schools of portfolio theory (see [pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of time-series. If 20bps doesn't sound like a lot, no worries and have a lovely weekend. 
