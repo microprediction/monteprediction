@@ -33,7 +33,6 @@ It is a lot easier than it was when I wrote my book.
 Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look for the midone channels. 
 
 ## Some answers to LI reach-out questions
-... that I've received
 
 ### 1. Can I schedule a chat? 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
