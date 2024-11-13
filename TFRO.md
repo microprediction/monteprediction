@@ -8,10 +8,12 @@ This is my current "hey nice to connect on Linked-In" page. I written:
 
 I might legitimately be able to help you if
 
-### ... you are a broker, venue, algo trader, market data provider, or someone who needs to optimize execution
-I create high quality real-time enhanced data feeds (mids and short horizon predictions) for algo trading, leveraging a community of 6,000 quants (see [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
+### ... you are a broker, trading venue, algo trader ...
+or market data provider, or someone who needs to optimize execution. I create high quality real-time enhanced data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants.
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
+
+See [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
 
 ### ... you review prediction models, or care about your own
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
