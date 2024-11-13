@@ -29,7 +29,8 @@ See [https://pi.crunchdao.com/](https://pi.crunchdao.com/)
 ### If you want an extra 20bps per year
 ... through some portfolio optimization that is entirely novel and unpublished, we can talk. How sneaky is it? Very. It is sneakier than my published work that unified the two schools of portfolio theory (see [pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of time-series. If 20bps doesn't sound like a lot, no worries and have a lovely weekend. 
 
-## Some answers to typical LI reach-out questions
+## Some answers to LI reach-out questions
+... that I've received
 
 ### 1. Can I schedule a chat? 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
