@@ -26,8 +26,8 @@ See [https://pi.crunchdao.com/](https://pi.crunchdao.com/)
 ### If you are interested in persuing a microprediction strategy at your firm
 ... which is a lot easier than it was when I wrote my book. 
 
-### If you want an extra 20-40bps per year
-... through some dportfolio optimization that is entirely novel and unpublished, we can talk. I think it is sneakier than my published work unifying the two schools of portfolio theory ([pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of randomly chosen sub-portfolios. 
+### If you want an extra 20bps per year
+... through some dportfolio optimization that is entirely novel and unpublished, we can talk. I think it is sneakier than my published work unifying the two schools of portfolio theory ([pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of randomly chosen sub-portfolios. If 20bps doesn't sound like a lot, no worries and have a lovely weekend. 
 
 ## Some answers to typical LI reach-out questions
 
