@@ -6,29 +6,27 @@ This is my current "hey nice to connect on Linked-In" page. I written:
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
 
-# Legitimate material possibilities
-I'll keep this narrow: 
+I might legitimately be able to help you if
 
-## ... if you are a broker, venue, or market data provider
+## ... you are a broker, venue, or market data provider
 I create high quality real-time enhanced data feeds (mids and short horizon predictions) for algo trading, leveraging a community of 6,000 quants (see [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
 
-## ... if you review prediction models, or care about your own
+## ... you review prediction models, or care about your own
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
 
-## ... if you are a central bank watcher 
+## ... you are a central bank watcher 
 See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) but please be sure to use a question that is intended to ellicit a score when applied to *any* historical annoucement. 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
+## Some answers to actual questions I've received
 
-# Some answers to actual questions I've received
-
-## 1. Can I schedule a chat? 
+### 1. Can I schedule a chat? 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
 
-## 2. How should I learn AI/ML/stats/math ? 
+### 2. How should I learn AI/ML/stats/math ? 
 I don't have any structured guidance and can only suggest some bespoke opportunities to learn: 
 
 - See [lecture one](https://www.youtube.com/watch?v=9OTvuvr81R0), [lecture two](https://www.youtube.com/watch?v=02SScMdkgY0&t=42s) and [lecture three](https://www.youtube.com/watch?v=wqYTfHe7snk) put together by the Broad Institute at MIT and Harvard. That's your biology crash course. Then you'll be ready to take H&E images and predict transciptomics data. In other words, predict the result of an expensive test procedure from a cheap one. 
@@ -41,15 +39,15 @@ I don't have any structured guidance and can only suggest some bespoke opportuni
  
 - See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
-## Do you have any reading suggestions? 
+### Do you have any reading suggestions? 
 Not really. Here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. 
 
-## Do you have any general guidance? 
-Yes but it is extremely limited. 
+### Do you have any general guidance? 
+Not really. Maybe just this: 
 
-Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary *won't* be useful.
+Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary *won't* be useful or beneficial to try to understand. 
 
-Brief rationale: you *don't* know how your brain works. You don't know how the world works. You probably underestimate the power of abstraction and high level analogies when, at a future date, your brain will attempt to grasp the world. Moreover, there is copious science suggesting that pruning learning consciously or though laziness will materially impact your long term potential. There's even a tiny bit of evidence this applies to LLMs, mentioned [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop).  
+There's even a tiny bit of evidence this applies to LLMs, mentioned [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop).  
 
 ## Are you hiring? 
 Currently not but if you are good enough, you won't need a job. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
