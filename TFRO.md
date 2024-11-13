@@ -8,20 +8,24 @@ This is my current "hey nice to connect on Linked-In" page. I written:
 
 I might legitimately be able to help you if
 
-## ... you are a broker, venue, or market data provider
+### ... you are a broker, venue, algo trader, market data provider, or someone who needs to optimize execution
 I create high quality real-time enhanced data feeds (mids and short horizon predictions) for algo trading, leveraging a community of 6,000 quants (see [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
 
-## ... you review prediction models, or care about your own
+### ... you review prediction models, or care about your own
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
 
-## ... you are a central bank watcher 
+### ... you are a central bank watcher 
 See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
-## Some answers to actual questions I've received
+### ... you are interested in persuing a microprediction strategy at your firm
+... which is a lot easier than it was when I wrote my book. 
+
+## Some answers to questions I've received
+in many Linked-In reach-outs. 
 
 ### 1. Can I schedule a chat? 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
@@ -52,19 +56,6 @@ There's even a tiny bit of evidence this applies to LLMs, mentioned [here](https
 ## Are you hiring? 
 Currently not but if you are good enough, you won't need a job. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
 
-That said, 
-- I try to dump job postings in the microprediction slack (bottom of page [here](https://www.monteprediction.com/) ).
-- I shall list job opennings for my own firm here too as they arise.
-
-## Questions I am unlikely to answer
-You can help me by...
-- Not asking me if I've considered using AI in my business. 
-- Not asking me if I need consultants.
-- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
-- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger. 
-- Not reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. 
-- Not offering a limited time trial of anything at all, ever. 
-
 ## I "would like to learn more about my business"
 Terrific. Best way would be to:
 
@@ -76,7 +67,17 @@ Terrific. Best way would be to:
 
 Much appreciated!
 
-## Ways you can help me maybe 
+## Questions I am unlikely to answer
+You can help me by...
+- Not asking me if I've considered using AI in my business. 
+- Not asking me if I need consultants.
+- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
+- Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger. 
+- Not reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. 
+- Not offering a limited time trial of anything at all, ever. 
+
+## ... but I could always use help!  
+For example:
 
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
