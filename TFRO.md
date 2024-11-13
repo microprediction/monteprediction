@@ -1,12 +1,12 @@
 
 # Thanks for reaching out, stranger
-This is my current "hey nice to connect on Linked-In" page. I written:
+This is my current "hey nice to connect on Linked-In can I help you" page. Here's the (almost) free stuff:
 
 - A [book](https://mitpress.mit.edu/9780262047326/microprediction/) on prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
 
-I will briefly list the narrow set of things I can legitimately help you with
+If you run a business I will briefly list the small set of specific things I can legitimately help you with:
 
 ### If you are a broker, trading venue, algo trader ...
 or market data provider, or someone who needs to optimize execution. I create high quality real-time enhanced data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants.
@@ -27,7 +27,9 @@ See [https://pi.crunchdao.com/](https://pi.crunchdao.com/)
 It is a lot easier than it was when I wrote my book. 
 
 ### If you want an extra 20bps per year
-... through some portfolio optimization that is entirely novel and unpublished, we can talk. How sneaky is it? Very. It is sneakier than my published work that unified the two schools of portfolio theory (see [pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of time-series. If 20bps doesn't sound like a lot, no worries and have a lovely weekend. 
+... through some portfolio optimization that is entirely novel and unpublished, I can provide the algorithm via API and Python tools for evaluating it easily. How sneaky is it? Very. It is a cunning cunning plan my Lord, using a cunning cunning algorithm I wrote years ago and recently repurposed. It is so very cunning it is even more devlishly cunning than unifying the two schools of portfolio theory (which I also did, see [pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of time-series and on opinionated and unopinionated portfolios. In other words, it can enhance portfolios as a final step by making extremely defensive use of dependency information.   
+
+I'm quoting 20bps because that's the actual long term result, probably, not an exaggerated claim. If that doesn't sound like a lot, you are not a likely customer for this and that's cool. 
 
 ### If you have questions about Crunch
 Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look for the midone channels. 
