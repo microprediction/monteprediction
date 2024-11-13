@@ -17,7 +17,7 @@ I create high quality real-time enhanced data feeds (mids and short horizon pred
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
 
 ## ... you are a central bank watcher 
-See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) but please be sure to use a question that is intended to ellicit a score when applied to *any* historical annoucement. 
+See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
