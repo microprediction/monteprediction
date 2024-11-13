@@ -47,15 +47,15 @@ I don't have any structured guidance and can only suggest some bespoke opportuni
  
 - See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
-### Do you have any reading suggestions? 
-Not really. Here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. 
+### 3. What should I learn? 
+I don't know but here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. It's all I've got. 
 
-### Do you have any general guidance? 
-Not really. Maybe just this: 
+### 4. Do you have any general guidance? 
+Not really. Well, maybe just this: 
 
-Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary *won't* be useful or beneficial to try to understand. 
+*Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary won't be useful or beneficial to try to understand*. 
 
-There's even a tiny bit of evidence this applies to LLMs, mentioned [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop).  
+Brief comment [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) on the topic.  
 
 ## Are you hiring? 
 Currently not but if you are good enough, you won't need a job. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
