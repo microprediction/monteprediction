@@ -8,23 +8,21 @@ This is my current "hey nice to connect on Linked-In can I help you" page. Here'
 
 If you run a business I will briefly list the small set of specific things I can legitimately help you with:
 
-### If you are a broker, trading venue, algo trader ...
-or market data provider, or someone who needs to optimize execution. I create high quality real-time enhanced data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants.
+### If you want to be right 51.7% of the time and you are a broker, trading venue, algo trader ...
+or market data provider, or someone who needs to optimize execution, then I can enhance your already high quality real-time data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants. There's nothing mysterious about this. I just harvest the best univariate martingality `attackers`. See [mid-one contest](https://mid-one.crunchdao.com/) for an example of this type of crowd-sourcing. Please don't expect more than about 51.7% directional accuracy over short horizons. I don't like to over-promise.   
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
-
-See [mid-one contest](https://mid-one.crunchdao.com/) for an example of signal crowd-sourcing.  
-
+ 
 ### If you review prediction models, or care about your own
-I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
+I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. 
 
 ### If you are a central bank watcher 
-See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) 
+There's a free tool at [https://pi.crunchdao.com/](https://pi.crunchdao.com/) where you can quickly test your hunches. It will expand soon. 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
 ### If you are interested in persuing a microprediction strategy at your firm
-It is a lot easier than it was when I wrote my book. 
+You should. It is a lot easier than it was when I wrote my book. We can talk. 
 
 ### If you want an extra 20bps per year
 ... through some portfolio optimization that is entirely novel and unpublished, I can provide the algorithm via API and Python tools for evaluating it easily. How sneaky is it? Very. It is a cunning cunning plan my Lord, using a cunning cunning algorithm I wrote years ago and recently repurposed. It is so very cunning it is even more devlishly cunning than unifying the two schools of portfolio theory (which I also did, see [pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of time-series and on opinionated and unopinionated portfolios. In other words, it can enhance portfolios as a final step by making extremely defensive use of dependency information.   
