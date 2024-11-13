@@ -6,28 +6,30 @@ This is my current "hey nice to connect on Linked-In" page. I written:
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
 
-I might legitimately be able to help you if
+I will briefly list the narrow list of things I can legitimately help you with
 
-### ... you are a broker, trading venue, algo trader ...
+### If you are a broker, trading venue, algo trader ...
 or market data provider, or someone who needs to optimize execution. I create high quality real-time enhanced data feeds (mids and short horizon predictions) leveraging a community of 6,000 quants.
 
 ![](https://github.com/microprediction/microprediction/blob/master/images/midone.png)
 
 See [here](https://mid-one.crunchdao.com/)) for an example of signal crowd-sourcing.  
 
-### ... you review prediction models, or care about your own
+### If you review prediction models, or care about your own
 I can help you use the world's largest stock-pile of univariate "attackers", that detect small departures from martingality. 
 
-### ... you are a central bank watcher 
+### If you are a central bank watcher 
 See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
-### ... you are interested in persuing a microprediction strategy at your firm
+### If you are interested in persuing a microprediction strategy at your firm
 ... which is a lot easier than it was when I wrote my book. 
 
-## Some answers to questions I've received
-in many Linked-In reach-outs. 
+### If you want an extra 20-40bps per year
+... through some dportfolio optimization that is entirely novel and unpublished, we can talk. I think it is sneakier than my published work unifying the two schools of portfolio theory ([pdf](https://arxiv.org/abs/2411.05807)) and I've tested it against thousands of randomly chosen sub-portfolios. 
+
+## Some answers to typical LI reach-out questions
 
 ### 1. Can I schedule a chat? 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
