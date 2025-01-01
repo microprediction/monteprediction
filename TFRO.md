@@ -24,10 +24,10 @@ There's a free tool at [https://pi.crunchdao.com/](https://pi.crunchdao.com/) wh
 ### If you are interested in persuing a microprediction strategy at your firm
 You should. It is a lot easier than it was when I wrote my book. We can talk. 
 
-### If you want an extra 20bps per year
+### If you want an extra 20-40bps per year
 ... through some portfolio optimization that is entirely novel and unpublished, I can provide the algorithm via API and Python tools for evaluating it easily. How sneaky is it? Very. It is a cunning cunning plan my Lord, using a cunning cunning algorithm I wrote years ago and recently repurposed. It is so very cunning it is even more devlishly cunning than unifying the two major schools of portfolio theory in a mathematical insight (I should know I'm the one who did that, see[pdf](https://arxiv.org/abs/2411.05807)). I've tested this new, cunning cunning algorithm against thousands of time-series and on opinionated and unopinionated portfolios. I'm in talks to create a new index. But I can *probably* enhance your opinionated portfolios as a final step by making extremely defensive use of dependency information.   
 
-I'm quoting 20bps because that's the actual long term result, probably, not an exaggerated claim. If that doesn't sound like a lot, you are not a likely customer for this and that's cool. 
+I'm quoting a modest gain because that's on the order of likely actual long term results, probably, not an exaggerated claim. If that doesn't sound like a lot, you are not a likely customer for this and that's cool. 
 
 ### If you have questions about Crunch
 Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look for the midone channels. 
