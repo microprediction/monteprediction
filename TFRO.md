@@ -12,18 +12,24 @@ If you run a business I will briefly list the small set of specific things I can
 
 I create uniquely useful feeds for algo trading, using ideas and algorithms from 7000 quants around the world. 
  
-### If you review prediction models, or care about your own, or realize somebody might help
-I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. You will instantly become the envy of all your model review friends, and establish yourself as a paragon of humble statistical virtue in your firm, just because you managed to get over your own cleverness whereas others could not. 
+### If you review algo models
+I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. 
+
+### If you rely on realtime operational predictions
+Ditto 
+
+### If you are a discretionary PM looking for new angles
+See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) and watch that space. 
 
 ### If you are a central bank watcher 
-There's a free tool at [https://pi.crunchdao.com/](https://pi.crunchdao.com/) where you can quickly test your hunches. It will expand soon. 
+Again, see [https://pi.crunchdao.com/](https://pi.crunchdao.com/) where you can quickly test your hunches. It will expand soon. 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
 ### If you are interested in persuing a microprediction strategy at your firm
 You should. It is a lot easier than it was when I wrote my book. We can talk. 
 
-### If you want an extra 20-40bps per year
+### If you are an asset manager and want an extra 20-40 bps per year
 ... through some portfolio optimization that is entirely novel and unpublished, I can provide the algorithm via API and Python tools for evaluating it easily. How sneaky is it? Very. It is a cunning cunning plan my Lord, using a cunning cunning algorithm I wrote years ago and recently repurposed. It is so very cunning it is even more devlishly cunning than unifying the two major schools of portfolio theory in a mathematical insight (I should know I'm the one who did that, see[pdf](https://arxiv.org/abs/2411.05807)). I've tested this new, cunning cunning algorithm against thousands of time-series and on opinionated and unopinionated portfolios. I'm in talks to create a new index. But I can *probably* enhance your opinionated portfolios as a final step by making extremely defensive use of dependency information.   
 
 I'm quoting a modest gain because that's on the order of likely actual long term results, probably, not an exaggerated claim. If that doesn't sound like a lot, you are not a likely customer for this and that's cool. 
@@ -77,7 +83,8 @@ Much appreciated!
 You can help me by...
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
-- Not replying to the link I sent you with "what is this link?".  It's a link. You discover what it goes to when you click on it. (You cannot imagine how often I've got this question). 
+- Not replying to the link I sent you with "what is this link?".  It's a link.
+- Not telling me you'd be interested in receiving an open ended essay from me on my experiences.  
 - Not forcing me to very graciously decline your kind offer to discuss my org chart in great detail with a complete stranger. 
 - Not reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
