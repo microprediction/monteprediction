@@ -43,7 +43,9 @@ Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look 
 You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
 
 ### 2. How should I learn AI/ML/stats/math ? 
-I don't have any structured guidance and can only suggest some bespoke opportunities to learn: 
+I don't have any structured guidance and can only suggest some rather bespoke opportunities to learn: 
+
+- This time-series [project suggestion](https://www.linkedin.com/posts/petercotton_timeseries-portfolios-ensembles-activity-7280960637365542912-H1hI/?utm_source=share&utm_medium=member_desktop).
 
 - See [lecture one](https://www.youtube.com/watch?v=9OTvuvr81R0), [lecture two](https://www.youtube.com/watch?v=02SScMdkgY0&t=42s) and [lecture three](https://www.youtube.com/watch?v=wqYTfHe7snk) put together by the Broad Institute at MIT and Harvard. That's your biology crash course. Then you'll be ready to take H&E images and predict transciptomics data. In other words, predict the result of an expensive test procedure from a cheap one. 
 
