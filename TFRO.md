@@ -1,12 +1,13 @@
 
 # Thanks for reaching out, stranger
-This is my current "hey nice to connect on Linked-In can I help you" page. Here's the (almost) free stuff:
+This is my current "hey nice to connect on Linked-In" page. I list only highly specific ways I might help.  
 
-- A [book](https://mitpress.mit.edu/9780262047326/microprediction/) on prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
+### If you are looking for free stuff
+or almost free
+
 - Free open-source software ... see [here](https://github.com/microprediction)
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
-
-If you run a business I will briefly list the small set of specific things I can legitimately help you with:
+- A [book](https://mitpress.mit.edu/9780262047326/microprediction/) on prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 
 ### If you trade OTC, 
 
@@ -39,8 +40,8 @@ Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look 
 
 ## Some answers to LI reach-out questions
 
-### 1. Can I schedule a chat? 
-You don't need to. If you join the Google Meet listed [here](https://www.linkedin.com/posts/petercotton_the-regular-tuesday-night-open-mic-meeting-for-no-particular-reason-activity-7249114298583519233-Gt8V?utm_source=share&utm_medium=member_desktop) on any Tuesday night between 8:30pm-10:00pm EST there's an 80% chance I'll be there. I would rather commit to this than schedule deterministic interruptions to my work I usually forget.   
+### 1. Can I chat about Crunch?  
+See above for Crunch discord we do a live AMA every Friday. 
 
 ### 2. How should I learn AI/ML/stats/math ? 
 I don't have any structured guidance and can only suggest some rather bespoke opportunities to learn: 
