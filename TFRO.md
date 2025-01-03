@@ -94,6 +94,7 @@ You can help me by...
 ## ... but I could always use help!  
 For example:
 
+- Do me a solid and follow my on [X/monteprediction](https://x.com/monteprediction) because company marketting folks are wondering why I have 34k LI follows and 34 on twitter. 
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
 - Introductions to *active* early to mid-stage investors are appreciated
