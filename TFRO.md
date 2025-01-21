@@ -27,7 +27,7 @@ See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) which is evolving ver
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
 ### If you are an asset manager and want an extra 40-80 bps per year
-I developed some "portfolio polishing" algorithms that are novel, well-motivated, but as yet untested at scale with large AUM. You would only want to talk to me about this if you have a strong prior on my ability to produce novel portfolio algorithms, perhaps due to familiarity with my "Schur" work, and if you have enough AUM to make the modest estimate of 40-80 bps sound very exciting.   
+I developed some "portfolio polishing" algorithms that are novel, well-motivated, but as yet untested at scale with large AUM. You would only want to talk to me about this if you have a strong prior on my ability to produce novel portfolio algorithms, perhaps due to familiarity with my "Schur" work [here](https://arxiv.org/abs/2411.05807) although I'm not talking about that, and if you have enough AUM to make the modest estimate of 40-80 bps tingle your spine, as opposed to generating a yawn.     
 
 
 ## Part II: Where I can *maybe* help 
