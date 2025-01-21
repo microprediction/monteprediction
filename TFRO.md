@@ -1,50 +1,42 @@
 
 # Thanks for reaching out, stranger
-This is my current "hey nice to connect on Linked-In" page. I list only highly specific ways I might help.  
+This is my current "hey nice to connect on Linked-In" page. I'm lucky to be connected to lots of interesting researchers and value that flow. I'll try to be highly specific in return so as not to waste your time.
 
-### If you are looking for free stuff
-or almost free
+# Part 1: Where I certainly can help
 
-- Free open-source software ... see [here](https://github.com/microprediction)
+### If you are looking for my code, papers, blogs etc
+- My open-source Packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization and portfolio construction. 
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
-- A [book](https://mitpress.mit.edu/9780262047326/microprediction/) on prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
 
-### If you trade OTC, 
+### If you are interested in Collective AI including Decentralized AI:
+- My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
+- Happy to discuss in CrunchDAO [discord](https://discord.gg/NuqJTcYQ2J).  
 
-I create uniquely useful feeds for algo trading, using ideas and algorithms from 7000 quants around the world. 
- 
+### If you trade OTC
+My main focus these days is creating high quality mid prices (theos) for OTC participants looking to improve internalization or execution. The main differentiator of these feeds is that I design games for 7000 quants around the world to play, and these games help me create components that remove predictability from the mids. So, if you are looking for a fully independent high velocity mid we should probably chat. 
+
 ### If you review algo models
-I can help you use the world's largest stock-pile of algorithms for detecting small departures from martingality. 
+I've been a little busy with the above to pursue this angle but, if you are in model review or if you care to improve your own algos then the reason I might be able to help you is that I collect in a systematic way hundreds if not thousands of prediction algorithms authored by smart people around the world. Soon it will be possible to rent these for ongoing performance analysis. There really isn't any magic way to review algo models, but having lots of hungry algorithms peck at the outputs is probably the closest thing. 
 
 ### If you rely on realtime operational predictions
-Ditto 
+While my company's focus is in finance, it is quite simple to apply the same machinery and the same community to other realtime prediction problems, whether you care about wind speeds or the number of hamburgers sold. There was a time when I could provide you an API and you could help yourself. That time may come again. We can chat.  
 
-### If you are a discretionary PM looking for new angles
-See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) and watch that space. 
-
-### If you are a central bank watcher 
-Again, see [https://pi.crunchdao.com/](https://pi.crunchdao.com/) where you can quickly test your hunches. It will expand soon. 
+### If you are a discretionary PM or a central bank watcher looking for new alpha inspiration
+See [https://pi.crunchdao.com/](https://pi.crunchdao.com/) which is evolving very rapidly in response to feedback from hedge funds. 
 
 ![](https://github.com/microprediction/monteprediction/blob/main/pi_example.png)
 
-### If you are interested in persuing a microprediction strategy at your firm
-You should. It is a lot easier than it was when I wrote my book. We can talk. 
+### If you are an asset manager and want an extra 40-80 bps per year
+I developed some "portfolio polishing" algorithms that are novel, well-motivated, but as yet untested at scale with large AUM. You would only want to talk to me about this if you have a strong prior on my ability to produce novel portfolio algorithms, perhaps due to familiarity with my "Schur" work, and if you have enough AUM to make the modest estimate of 40-80 bps sound very exciting.   
 
-### If you are an asset manager and want an extra 20-40 bps per year
-... through some portfolio optimization that is entirely novel and unpublished, I can provide the algorithm via API and Python tools for evaluating it easily. How sneaky is it? Very. It is a cunning cunning plan my Lord, using a cunning cunning algorithm I wrote years ago and recently repurposed. It is so very cunning it is even more devlishly cunning than unifying the two major schools of portfolio theory in a mathematical insight (I should know I'm the one who did that, see[pdf](https://arxiv.org/abs/2411.05807)). I've tested this new, cunning cunning algorithm against thousands of time-series and on opinionated and unopinionated portfolios. I'm in talks to create a new index. But I can *probably* enhance your opinionated portfolios as a final step by making extremely defensive use of dependency information.   
 
-I'm quoting a modest gain because that's on the order of likely actual long term results, probably, not an exaggerated claim. If that doesn't sound like a lot, you are not a likely customer for this and that's cool. 
+## Part II: Where I can *maybe* help 
 
-### If you have questions about Crunch
-Or Mid+One in particular, see [discord](https://discord.gg/NuqJTcYQ2J) and look for the midone channels. 
+### Can I chat? 
+I used to have an open chat on Tuesday nights but now the best proxy for that is the weekly community chat on Friday's at 11am EST. I'm happy to stay on a bit longer after the official stuff to talk about mathematics or whatever. See [discord](https://discord.gg/NuqJTcYQ2J) and look for the announcements.  
 
-## Some answers to LI reach-out questions
-
-### 1. Can I chat about Crunch?  
-See above for Crunch discord we do a live AMA every Friday. 
-
-### 2. How should I learn AI/ML/stats/math ? 
-I don't have any structured guidance and can only suggest some rather bespoke opportunities to learn: 
+### Do you have structured advice for learning AI/ML/stats/math ? 
+Not really, no. I can only suggest some rather bespoke opportunities to learn that certainly should not be considered a comprehensive education in and of themselves! 
 
 - This time-series [project suggestion](https://www.linkedin.com/posts/petercotton_timeseries-portfolios-ensembles-activity-7280960637365542912-H1hI/?utm_source=share&utm_medium=member_desktop).
 
@@ -58,20 +50,22 @@ I don't have any structured guidance and can only suggest some rather bespoke op
  
 See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
-### 3. What should I read?
+### What should I read?
 I don't know but here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. It's all I've got. 
 
-### 4. Do you have any general guidance? 
+### Do you have any general guidance? 
 Not really. Well, maybe just this: 
 
 *Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary won't be useful or beneficial to try to understand*. 
 
 Brief comment [here](https://www.linkedin.com/posts/petercotton_ai-artificialintelligence-activity-7248460182718935040-kM_X?utm_source=share&utm_medium=member_desktop) on the topic.  
 
-### 5. Are you hiring? 
+### Are you hiring? 
 Currently not but if you are good enough, you won't need a job. Create an awesome algorithm on CrunchDAO and hand it down to your grandchildren. 
 
-### 6. Can I "learn more about your business"?
+# Part III: Where I really am unlikely to be helpful
+
+### Can I "learn more about your business"?
 Oh boy, terrific. Best way would be to:
 
  - Read my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network). 
@@ -82,7 +76,7 @@ Oh boy, terrific. Best way would be to:
 
 Much appreciated!
 
-## Questions I am unlikely to answer
+### Questions I am unlikely to answer
 You can help me by...
 - Not asking me if I've considered using AI in my business. 
 - Not asking me if I need consultants.
@@ -92,10 +86,10 @@ You can help me by...
 - Not reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
 
-## ... but I could always use help!  
-For example:
+# Can you help me?   
+As noted you may already be improving my feed. Thanks. Should you feed more generous: 
 
-- Do me a solid and follow my on [X/monteprediction](https://x.com/monteprediction) because company marketting folks are wondering why I have 34k LI follows and 34 on twitter. 
+- Do me a solid and follow my on [X/monteprediction](https://x.com/monteprediction) because company marketting folks are wondering why I have 34,000 LI follows and only 34 on twitter. I hate twitter. 
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
 - Introductions to *active* early to mid-stage investors are appreciated
