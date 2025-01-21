@@ -4,12 +4,12 @@ This is my current "hey nice to connect on Linked-In" page. I'm lucky to be conn
 
 # Part 1: Where I certainly can help
 
-### If you are looking for my code, papers, blogs etc
+### If you are looking for my code, papers, articles ...
 - My open-source Python packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization, order statistics and portfolio construction. 
-- Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
+- Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home) 
 
 ### If you are interested in Collective AI including Decentralized AI:
-- My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3).
+- My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3) and see also [awards](https://microprediction.github.io/building_an_open_ai_network/feedback.html). 
 - Happy to discuss in CrunchDAO [discord](https://discord.gg/NuqJTcYQ2J).  
 
 ### If you trade OTC
