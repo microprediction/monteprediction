@@ -5,7 +5,7 @@ This is my current "hey nice to connect on Linked-In" page. I'm lucky to be conn
 # Part 1: Where I certainly can help
 
 ### If you are looking for my code, papers, blogs etc
-- My open-source Packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization and portfolio construction. 
+- My open-source Python packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization, order statistics and portfolio construction. 
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home)
 
 ### If you are interested in Collective AI including Decentralized AI:
