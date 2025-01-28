@@ -13,7 +13,7 @@ This is my current "hey nice to connect on Linked-In" page. I'm lucky to be conn
 - Happy to discuss in CrunchDAO [discord](https://discord.gg/NuqJTcYQ2J).  
 
 ### If you trade OTC
-My main focus these days is creating high quality mid prices (theos) for OTC participants looking to improve internalization or execution. The main differentiator of these feeds is that I design games for 7000 quants around the world to play, and these games help me create components that remove predictability from the mids. So, if you are looking for a fully independent high velocity mid we should probably chat. 
+My main focus these days is creating high quality mid prices (theos) and volatilty predictions a few seconds ahead for OTC participants looking to improve internalization or execution. The main differentiator of these feeds is that I design games for 7000 quants around the world to play, and these games help me create components that remove predictability from the mids. So, if you are looking for a fully independent high velocity mid we should probably chat! 
 
 ### If you review algo models
 I've been a little busy with the above to pursue this angle but, if you are in model review or if you care to improve your own algos then the reason I might be able to help you is that I collect in a systematic way hundreds if not thousands of prediction algorithms authored by smart people around the world. Soon it will be possible to rent these for ongoing performance analysis. There really isn't any magic way to review algo models, but having lots of hungry algorithms peck at the outputs is probably the closest thing. 
