@@ -1,6 +1,6 @@
 
 # Thanks for reaching out, stranger
-This is my current "hey nice to connect on Linked-In" page. I'm lucky to be connected to lots of interesting researchers and value that flow. I'll try to be highly specific in return so as not to waste your time. Here are my niches ...
+This is my current "hey nice to connect on Linked-In" page: a mix of FAQ and shameless self-serving advertising of my niche value propositions. I'm lucky to be connected to lots of interesting researchers and value that flow. I'll try to be highly specific:
 
 # Part 1: Where I certainly can help
 
