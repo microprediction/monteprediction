@@ -51,10 +51,10 @@ Not really, no. I can only suggest some rather bespoke opportunities to learn th
 See [CrunchDAO.com](www.crunchdao.com) for more challenges
 
 ### What should I read?
-I don't know but here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. It's all I've got. 
+I don't know but there are lots of [free books](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources). If you are into portfolio theory I have a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md). 
 
 ### Do you have any general guidance? 
-There are lots of [free books](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources). My only advice is:
+My only advice is:
 
 *Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary won't be useful or beneficial to try to understand*. 
 
