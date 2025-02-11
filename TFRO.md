@@ -54,7 +54,7 @@ See [CrunchDAO.com](www.crunchdao.com) for more challenges
 I don't know but here's a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) that's pretty narrow. It's all I've got. 
 
 ### Do you have any general guidance? 
-Not really. Well, maybe just this: 
+There are lots of [free books](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources). My only advice is:
 
 *Never, ever, ever kid yourself into thinking that you can determine that something mathematical or technical-but-not-arbitrary won't be useful or beneficial to try to understand*. 
 
