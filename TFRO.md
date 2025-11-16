@@ -14,7 +14,7 @@ This is also my answer to "can you suggest an interesting project to work on?".
 
 ### Are you hiring? 
 Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. Performance on the prediction markets mentioned above is one way to impress. 
-We are making dough. I have zero interest if you need to be "sold" on LLMs for alpha (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de) for my dated views). 
+True LLM believers only need apply. We are making dough. So I have zero interest if you need to be "sold" on LLMs for alpha (or more broadly, see my [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de) sticking my neckk out in 2023). 
 
 
 ### Questions I am unlikely to answer
