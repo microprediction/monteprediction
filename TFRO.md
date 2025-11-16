@@ -26,8 +26,8 @@ You can help me by...
 - Not reaching out to me with a pitch that begins with a declarative statement like "Firms are doing blah blah blah" or "Companies are finding that ...". This will make me want to strangle you. 
 - Not offering a limited time trial of anything at all, ever. 
 
-# Can you help me?   
-As noted you may already be improving my feed. Thanks. Should you feed more generous: 
+### Can you help me?   
+As noted you may already be improving my feed. Thanks. Should you feel more generous: 
 
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
 - Ah forget that. I really just want effusive unconditionally positive 5-star reviews for my [book](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322).
