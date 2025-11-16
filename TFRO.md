@@ -13,7 +13,7 @@ I maintain [economic prediction markets](https://manifold.markets/MikhailTal?tab
 This is also my answer to "can you suggest an interesting project to work on?". 
 
 ### Are you hiring? 
-Yes I'm hiring developers. You can send resumes to my @gsmc.ai address that you can guess. It contains my first name, last name and a period. Performance on the prediction markets mentioned above is one way to impress. 
+Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. Performance on the prediction markets mentioned above is one way to impress. 
 We are making dough. I have zero interest if you need to be "sold" on LLMs for alpha (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de) for my dated views). 
 
 
