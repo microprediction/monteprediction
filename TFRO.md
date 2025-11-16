@@ -10,7 +10,6 @@ Here's how I can *maybe* help.
 
 ### If you are looking for a project to work on ...
 I maintain [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) and you can use [manifoldbot](https://github.com/microprediction/manifoldbot) or otherwise participate without any risk. 
-This is also my answer to "can you suggest an interesting project to work on?". 
 
 ### Are you hiring? 
 Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. Performance on the prediction markets mentioned above is one way to impress. 
