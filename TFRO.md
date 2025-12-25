@@ -9,11 +9,11 @@ Here's how I can *maybe* help.
 - My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3) and see also [awards](https://microprediction.github.io/building_an_open_ai_network/feedback.html).
 
 ### If you are looking for a project to work on ...
-I maintain [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) and you can use [manifoldbot](https://github.com/microprediction/manifoldbot) or otherwise participate without any risk. 
+I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. If you have ideas, I maintain play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally (you can use [manifoldbot](https://github.com/microprediction/manifoldbot) or otherwise participate).
 
 ### Are you hiring? 
-Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. Performance on the prediction markets mentioned above is one way to impress. 
-True LLM believers only need apply. We are making dough. So I have zero interest if you need to be "sold" on LLMs for alpha (or more broadly, see my [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de) sticking my neckk out in 2023). 
+Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. 
+
 
 
 ### Questions I am unlikely to answer
