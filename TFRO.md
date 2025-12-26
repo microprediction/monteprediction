@@ -2,6 +2,15 @@
 # Thanks for reaching out
 Here's how I can *maybe* help. 
 
+### If you are looking for a summer intership
+
+- My firm is looking for interns     
+- Send CVs to my first last at gsmc.ai
+- A mix of building trading programs and deep research into the world economy.
+- See [manifoldbot](https://github.com/microprediction/manifoldbot) and you'll get the rough idea.
+- Location is on site in Darien CT
+  
+
 ### If you are looking for my code, papers, articles ...
 - My niche open-source Python packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization, order statistics and portfolio construction. 
 - Papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home) including [Schur Portfolio Theory](https://arxiv.org/abs/2411.05807). 
@@ -9,12 +18,10 @@ Here's how I can *maybe* help.
 - My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3) and see also [awards](https://microprediction.github.io/building_an_open_ai_network/feedback.html).
 
 ### If you are looking for a project to work on ...
-I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. If you have ideas, I maintain play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally (you can use [manifoldbot](https://github.com/microprediction/manifoldbot) or otherwise participate).
+I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. If you have ideas, again I'd point you to the play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally.
 
 ### Are you hiring? 
-Yes I'm hiring developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. 
-
-
+Yes I'm hiring full stack developers. You can send resumes to my gsmc.ai address that you can guess. It contains my first name, last name and a period. 
 
 ### Questions I am unlikely to answer
 You can help me by...
