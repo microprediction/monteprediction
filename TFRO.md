@@ -5,9 +5,8 @@ Here's how I can *maybe* help.
 ### If you are looking for a summer intership
 
 - My firm is looking for interns     
-- Send CVs to my first last at gsmc.ai
-- A mix of building trading programs and deep research into the world economy.
-- See [manifoldbot](https://github.com/microprediction/manifoldbot) and you'll get the rough idea.
+- Apply through this [form](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship)
+- The task will involve mix of writing Python programs and deep research into the world economy.
 - Location is on site in Darien CT
   
 
