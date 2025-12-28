@@ -1,9 +1,11 @@
 
 # Thanks for reaching out
 Probably you have received this link because you reached out to connect to me on Linked-In. 
-Probably I took forever to accept, sorry. Linked-In doesn't make it easy. 
-(One guy forgot he reached out to me once, and accused me of spamming him)
-Who would implement a FILO queue for this? 
+Probably I took forever to accept, sorry. Linked-In doesn't make it easy (FIFO queue anyone?) 
+One guy forgot he reached out to me once, and accused me of spamming him.
+The conversation went downhill from there. 
+We are off to a better start. 
+
 An idiot, I say. 
 
 Anyhow, here's how I can *maybe* help you.  
