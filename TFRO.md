@@ -25,7 +25,7 @@ I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-
 
 Alternatively, if you have a burning desire to rewrite one of my Python packages in rust, I'd love that. 
 
-Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction/home) ). 
+Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction) ). 
 
 ### Can you help me?    
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
