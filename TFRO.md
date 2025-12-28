@@ -1,7 +1,7 @@
 
 # Thanks for reaching out
 Probably you have received this link because you reached out to connect to me on Linked-In. 
-Probably I took forever to accept, sorry. Linked-In doesn't make it easy (FIFO queue anyone?) 
+Probably I took forever to accept, sorry. Linked-In doesn't make it easy (FIFO queues banned there). 
 One guy forgot he reached out to me once, and accused me of spamming him.
 The conversation went downhill from there. 
 We are off to a better start. 
