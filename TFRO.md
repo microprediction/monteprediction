@@ -12,7 +12,7 @@ Anyhow, here's how I can *maybe* help you.
 - Apply through this [form](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship)
 - The task will involve mix of writing Python programs and deep research into the world economy.
 - Location is on site in Darien CT right by the station.
-- Nice place btw. Close to the water and doesn't smell like piss (but you can still go out in NYC if you want).  
+- Nice place btw. Close to the water and doesn't smell like piss (but you can still go out in NYC in the evenings if you want).  
   
 ### If you are looking for my code, papers, articles ...
 - My niche open-source Python packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization, order statistics and portfolio construction. 
