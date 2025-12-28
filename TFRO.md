@@ -6,8 +6,6 @@ One guy forgot he reached out to me once, and accused me of spamming him.
 The conversation went downhill from there. 
 We are off to a better start. 
 
-An idiot, I say. 
-
 Anyhow, here's how I can *maybe* help you.  
 
 ### If you are looking for a summer intership
