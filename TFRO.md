@@ -23,12 +23,15 @@ Anyhow, here's how I can *maybe* help you.
 - I maintain a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) on robust portfolio theory.
 - My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3) and see also [awards](https://microprediction.github.io/building_an_open_ai_network/feedback.html).
 
-### If you are looking for a project to work on ...
-I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. If you have ideas, again I'd point you to the play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally. 
+### If you are looking for a project to work on to impress future employers ...
+Ken Griffin publically admits he can't figure out how to make LLMs useful in the alpha generation process. So look, if you can, I'd suggest that's not a waste of time. 
 
-Alternatively, if you have a burning desire to rewrite one of my Python packages in rust, I'd love that. 
+- Ken's wrong. I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence.
+- If you have ideas, again I'd point you to the play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally. Perhaps [manifoldbot](https://github.com/microprediction/manifoldbot) is a start but you can do much better. 
 
-Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction) ). 
+Alternatively:
+  - If you have a burning desire to rewrite one of my Python packages in rust, I'd love that. 
+  - Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction) but also [skfolio schur](https://skfolio.org/auto_examples/clustering/plot_6_schur.html).  
 
 ### Can you help me?    
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
