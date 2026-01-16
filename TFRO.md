@@ -26,7 +26,7 @@ The task will involve mix of writing Python programs and deep research into the 
 ### If you are looking for a project to work on to impress future employers ...
 Ken Griffin publically admits he can't figure out how to make LLMs useful in the alpha generation process. So look, if you can, I'd suggest that's not a waste of time. 
 
-- Ken's wrong. I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. 
+- Ken's wrong. I've been long LLMs for a while (see this [essay](https://medium.com/the-modern-scientist/remind-me-again-why-large-language-models-cant-think-acab12da63de)) and I design systems to maximize the use of their weak generalized intelligence. It's tricky but so is everything of value.  
 - If you have ideas, again I'd point you to the play-money [economic prediction markets](https://manifold.markets/MikhailTal?tab=questions) so you can test your theories longitudinally. Perhaps [manifoldbot](https://github.com/microprediction/manifoldbot) is a start but you can do much better. 
 
 Alternatively:
