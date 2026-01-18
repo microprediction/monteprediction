@@ -21,7 +21,7 @@ The task will involve mix of writing Python programs and deep research into the 
   the two sides of portfolio theory, or to my work
   [here](https://github.com/microprediction/winning/blob/main/docs/Horse_Race_Problem__SIAM_updated.pdf) that made Thurstone models useful again.
 - Other papers, articles, blogs etc are listed on my [home page](https://github.com/microprediction/home). 
-- I maintain a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) on robust portfolio theory.
+- I "maintain" a [reading list](https://github.com/microprediction/precise/blob/main/LITERATURE.md) on robust portfolio theory, though why anyone would maintain a list of anything is beyond me. 
 - My [book](https://mitpress.mit.edu/9780262047326/microprediction/) fortells the rise of prediction networks. Audio for chapter one [here](https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3) and see also [awards](https://microprediction.github.io/building_an_open_ai_network/feedback.html).
 
 ### If you are looking for a project to work on to impress future employers ...
