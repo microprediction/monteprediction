@@ -2,9 +2,10 @@
 # Thanks for reaching out
 Probably you have received this link because you reached out to connect to me on Linked-In. 
 Probably I took forever to accept, sorry. Linked-In doesn't make it easy (FIFO queues banned there). 
-One guy forgot he reached out to me once, and accused me of spamming him.
-The conversation went downhill from there. 
+One guy forgot he reached out to me once, and accused me of spamming him. The conversation went downhill from there. 
 We are off to a better start. 
+
+![](https://github.com/microprediction/home/blob/main/docs/assets/images/received.png)
 
 Anyhow, here's how I can *maybe* help you.  
 
