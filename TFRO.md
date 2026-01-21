@@ -9,10 +9,16 @@ We are off to a better start.
 
 Anyhow, here's how I can *maybe* help you.  
 
-### If you are looking for a summer intership on-site in Darien CT for summer 2026 ([post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo))
+### Jobs
+
+1. If you are looking for a summer intership on-site in Darien CT for summer 2026 ([post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo))
 - Apply through this [form](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship)
 
-The task will involve mix of writing Python programs and deep research into the world economy. Nice place btw. Close to the water and doesn't smell like piss (but you can still go out in NYC in the evenings if you want).
+2. Full time positions:
+   - [Front-End and User Interaction Design Engineer](https://gsmc.breezy.hr/p/de89de423f38-design-engineer-frontend-human-ai-interaction)
+
+
+Nice place btw. Close to the water and doesn't smell like piss (but you can still go out in NYC in the evenings if you want).
 
   
 ### If you are looking for my code, papers, articles ...
