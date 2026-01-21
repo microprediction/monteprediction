@@ -10,17 +10,14 @@ We are off to a better start.
 Anyhow, here's how I can *maybe* help you.  
 
 ### Jobs
+Current openings at my firm
 
-1. If you are looking for a summer intership on-site in Darien CT for summer 2026 ([post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo))
-- Apply through this [form](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship)
+-  [Summer internships](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship) Full time on-site Darien CT
+-  [Front-End and User Interaction Design Engineer](https://gsmc.breezy.hr/p/de89de423f38-design-engineer-frontend-human-ai-interaction)  Full time on-site Darien CT
 
-2. Full time positions:
-   - [Front-End and User Interaction Design Engineer](https://gsmc.breezy.hr/p/de89de423f38-design-engineer-frontend-human-ai-interaction)
+We are 1 min walk to Darien Metro North in heart of downtown Darien. Some employees reverse commute from the city. About 7 mins from the beach. See also this [post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo)). 
 
 
-Nice place btw. Close to the water and doesn't smell like piss (but you can still go out in NYC in the evenings if you want).
-
-  
 ### If you are looking for my code, papers, articles ...
 - My niche open-source Python packages are [here](https://github.com/microprediction). The focus is on timeseries, optimization, order statistics and portfolio construction.
 - If you are of the view that novel algorithms are all that matter and the rest is mostly noise, I'll send you straight to my [Schur Portfolio Theory](https://arxiv.org/abs/2411.05807) work that unifies
