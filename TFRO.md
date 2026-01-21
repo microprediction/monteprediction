@@ -15,7 +15,7 @@ Current openings at my firm
 -  [Summer internships](https://gsmc.breezy.hr/p/0db8f9750059-summer-research-internship) Full time on-site Darien CT
 -  [Front-End and User Interaction Design Engineer](https://gsmc.breezy.hr/p/de89de423f38-design-engineer-frontend-human-ai-interaction)  Full time on-site Darien CT
 
-We are 1 min walk to Darien Metro North in heart of downtown Darien. Some employees reverse commute from the city. About 7 mins from the beach. See also this [post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo)). 
+We are 1 min walk to Darien Metro North in heart of downtown Darien. Some employees reverse commute from NYC. About 7 mins from the beach. See also this [post](https://www.linkedin.com/posts/petercotton_economics-technology-activity-7417757645048205312-Xa9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADG4ccBwZe8-bPaT745XJ5TgO3D-0a4TYo)). 
 
 
 ### If you are looking for my code, papers, articles ...
