@@ -42,7 +42,7 @@ Alternatively:
 The answer to "any advice you could give me would be appreciated" is
 - Learn math
 - Don't work for jerks
-- Ask for general advice [here](https://chatgpt.com/g/g-68a5df4e12508191a0eaaf8535519552-virtual-peter-cotton)
+- Ask for general advice [here](https://chatgpt.com/g/g-68a5df4e12508191a0eaaf8535519552-virtual-peter-cotton). Last time it spat out [this](https://github.com/microprediction/home/blob/main/CAREER_ADVICE.md) but it will get smarter. 
 
 ### Can you help me?    
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
