@@ -36,12 +36,13 @@ Ken Griffin publically admits he can't figure out how to make LLMs useful in the
 
 Alternatively:
   - If you have a burning desire to rewrite one of my Python packages in rust, I'd love that. 
-  - Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction) but also [skfolio schur](https://skfolio.org/auto_examples/clustering/plot_6_schur.html).  
+  - Contribs to my other packages are also welcome (see [home page](https://github.com/microprediction) but also [skfolio schur](https://skfolio.org/auto_examples/clustering/plot_6_schur.html)).  
 
 ### If you are looking for general advice ...
 The answer to "any advice you could give me would be appreciated" is
 - Learn math
 - Don't work for jerks
+- Ask for general advice [here](https://chatgpt.com/g/g-68a5df4e12508191a0eaaf8535519552-virtual-peter-cotton)
 
 ### Can you help me?    
 - Constructive feedback on my various writings are invariably greeted warmly (see my [home page](https://github.com/microprediction/home)).
